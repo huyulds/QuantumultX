@@ -1,8 +1,17 @@
 #
+#p2p
+視1台,P2p://ns1.hellotvvod.com:9906/91faa433a9544c8785cd215a2ad6fcda
+松視2台,P2p://ns1.hellotvvod.com:9906/80a9c735329544c9ab7fa3e2425f86cd
+PLAYBOY,P2p://ns1.hellotvvod.com:9906/d97f4ae150ba4c6792171c088d1c033f
+香蕉台,P2p://ns1.hellotvvod.com:9906/40968f1afa564083ba7670ec10aabe1a
+松視3台,P2p://ns1.hellotvvod.com:9906/e67a4e22ee4c496282298f612f200fe5
+JStar極限台,P2p://ns1.hellotvvod.com:9906/331c31537de3490cb0dfebcf5b58ac14
+HAPPY,P2p://ns1.hellotvvod.com:9906/634f970f0002bd9d50ba50ab13577c0f
+K,P2p://ns1.hellotvvod.com:9906/302db2d2f4c5487bba0c509275e6378e
 #哔哩哔哩
 
 哔哩哔哩英雄联盟赛事,https://epg.112114.xyz/bilibili/6
-C酱です,2https://epg.112114.xyz/bilibili/13
+C酱です,https://epg.112114.xyz/bilibili/13
 巴老师的小号,https://epg.112114.xyz/bilibili/25206807
 香取绮罗_kira,https://epg.112114.xyz/bilibili/22210372
 唐九夏还想再躺一下,https://epg.112114.xyz/bilibili/23303212
