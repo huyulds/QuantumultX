@@ -39,7 +39,7 @@ host-suffix, youboranqs01.com, 🇯🇵 日本节点
 host, ds-vod-abematv.akamaized.net, 🇯🇵 日本节点
 host, mobile-collector.newrelic.com, 🇯🇵 日本节点
 host-suffix, youglish.com, 🚀 节点选择
-host-suffix, blueseamusics.com, 🚀 手动选择
+host-suffix, blueseamusics.com, 🚀 手动切换
 host, japaneseasmr.com, 🚀 节点选择
 host-suffix, copymanga.com, 🚀 节点选择
 -host, bbs.imoutolove.me, 🚀 节点选择
