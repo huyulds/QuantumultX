@@ -3,7 +3,6 @@ host, zi0.cc, 🎬 EMBY
 host, invidious.sethforprivacy.com, 🚀 节点选择
 host-suffix, anicdn.com, 🚀 手动切换
 host-suffix, anime1.me, 🚀 手动切换
-host, 4837.misakaf.org, 🎬 EMBY
 host-suffix, hltv.org, 🎯 全球直连
 host, m3u.52sf.ga, 🚀 节点选择
 host-suffix, manhuabika.com, 🚀 节点选择
@@ -43,7 +42,6 @@ host-suffix, blueseamusics.com, 🚀 手动切换
 host, japaneseasmr.com, 🚀 节点选择
 host-suffix, copymanga.com, 🚀 节点选择
 -host, bbs.imoutolove.me, 🚀 节点选择
-host, embywiki.911997.xyz, 🎬 EMBY
 host-suffix, nbys.tv, 🇭🇰 香港节点
 host-suffix, hk1lib.org, 🚀 手动切换
 host-suffix, soman.com, 🚀 节点选择
@@ -59,24 +57,19 @@ host, api.dandanplay.net, 🎬 EMBY
 host-suffix, chirmyram.com, 🎬 EMBY
 host, al.chirmyram.com, 🎬 EMBY
 host-keyword, emby, 🎬 EMBY
-host, xyt.emby.ml, 🎬 EMBY
 host, 2cat.org, 🚀 节点选择
 host-suffix, misakaf.org, 🎬 EMBY
 host-suffix, matrix.org, 🚀 节点选择
-host, emby.misakaf.org, 🎬 EMBY
 host-suffix, ayxbk.com, 🚀 节点选择
 host, s.ayxbk.com, 🚀 节点选择
 host, www.a-hospital.com, 🚀 节点选择
 host-suffix, kuromis.com, 🚀 节点选择
 host-suffix, ddrk.me, 🎬 EMBY
 host, emby.jiasu.ga, 🎬 EMBY
-host, emby.flowercloud.yt, 🎬 EMBY
 host-keyword, komica, 🚀 节点选择
 host-suffix, komica.org, 🚀 节点选择
 host-suffix, 2ch.net, 🚀 节点选择
 host, www.nmbxd1.com, 🚀 节点选择
-host, de.misakaf.xyz, 🎬 EMBY
-host, emby.misakaf.xyz, 🎬 EMBY
 host, copymanga.com, 🚀 节点选择
 host, api.waqi.info, 🍎 苹果服务
 host-suffix, vol.moe, 📺 巴哈姆特
@@ -107,7 +100,7 @@ host-suffix, soman.com, 🚀 节点选择
 host, www.mangabz.com, 🚀 节点选择
 host-suffix, ovocloud.cc, 🚀 节点选择
 host-suffix, flowercloud.yt, 🚀 节点选择
-host, ha.jmsooo.com, 🎬 EMBY
+host-suffix, jmsooo.com, 🎬 EMBY
 host-suffix, flower.yt, 🚀 节点选择
 -host-suffix, huacloud.icu, 🚀 节点选择
 host-suffix, vpnxxw.com, 🚀 节点选择
@@ -136,7 +129,6 @@ host, tingtalk.me, 🚀 节点选择
 host, pixiv.re, 🚀 节点选择
 -host-keyword, n2a, 🇭🇰 香港节点
 host-suffix, limbopro.com, 🚀 节点选择
-host-suffix, pornemby.club, 🎬 EMBY
 host-suffix, newmobilelife.com, 🚀 节点选择
 host, blueseamusics.com, 🚀 手动切换
 ip-cidr, 203.107.1.1/24, reject
@@ -159,19 +151,15 @@ host-suffix, xeton.dev, 🚀 节点选择
 host-suffix, plusmedia.site, 🇺🇲 美国节点
 host-keyword, prprcloud, 🎬 EMBY
 host-suffix, johnrosen1.com, 🚀 节点选择
-host, cu.poloemby.xyz, 🎬 EMBY
 host-suffix, emby.wtf, 🎬 EMBY
 host-keyword, progo, 🚀 节点选择
 host, client.crisp.chat, 🚀 节点选择
 host, client.relay.crisp.chat, 🚀 节点选择
 host-suffix, hostloc.com, 📲 电报消息
-host, embyaz.misakaf.xyz, 🎬 EMBY
-host-suffix, misakaf.xyz, 🎬 EMBY
 host, nav-map.progo.workers.dev, 🚀 节点选择
 host, dash.vm2.me, 🚀 节点选择
 host-suffix, progo.cc, 🚀 节点选择
 host-suffix, javdb.com, 🚀 手动切换
-host-suffix, jmsooo.com, 🎬 EMBY
 #local优先
 #Emby
 HOST-SUFFIX,emby.riches.cloud,🎬 EMBY
