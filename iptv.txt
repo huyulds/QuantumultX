@@ -57,7 +57,7 @@ https://epg.112114.xyz/bilibili/21919321
 #EXTINF:-1 tvg-id="21470918" tvg-logo="null" group-title="哔哩哔哩",CSGO久菜合子
 https://cn-hnly-cu-01-21.bilivideo.com/live-bvc/677455/live_437744340_40211162_bluray/index.m3u8?expires=1668862324&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=1007d23fae669183498e962d8e4ca99e6bf4&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=8ed9d14cca9fa6c917a00708abdcd2e8&sk=dc7da5ec3116549edddcf4f580cdbbd8&flvsk=bb54a0d1f51eef6cba7c72ca02291d6f&p2p_type=0&src=57345&sl=8&free_type=0&sid=cn-hnly-cu-01-21&chash=1&sche=ban&bvchls=1&score=13&pp=rtmp&machinezone=ylf&source=onetier&site=b3e40e121f500e2326091e8f60cce383&order=1
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",奈姬niki
+#EXTINF:-1 tvg-id="88615" tvg-logo="null" group-title="哔哩哔哩",奈姬niki
 https://cn-hnly-cu-01-18.bilivideo.com/live-bvc/187567/live_3035105_3298728_bluray/index.m3u8?expires=1668865927&len=0&oi=707866693&pt=h5&qn=10000&trid=1007ddb444a654dc4bc7a5cba90a8f9caaa9&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=295caa57ae83bade82db6dd028a4f71a&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=2935686d6cb9146c7a6a6a0b4e120e2557adc0b48de99725a5887e843ee476a1&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-18&chash=1&sche=ban&bvchls=1&score=11&pp=rtmp&machinezone=jd&source=onetier&site=682642027db00f4d8c4fd2becab2c400&order=1
 
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",星瞳_Official
@@ -69,7 +69,7 @@ https://epg.112114.xyz/bilibili/21672023
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",七海Nana7mi
 https://epg.112114.xyz/bilibili/21452505
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",小可学妹
+#EXTINF:-1 tvg-id="605" tvg-logo="null" group-title="哔哩哔哩",小可学妹
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/478978/live_14387072_3823515_bluray/index.m3u8?expires=1668865958&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=10073a32fc390fd642eeb8353f90d5f77ace&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=8964b3a2b7221bd65b60d25a1183081a&sk=330f650b9533b9f0f356c6d4c72b66e7&p2p_type=0&src=57345&sl=2&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=cb65136727c7ff05b9f8a077e83db743&order=1
 
 #EXTINF:-1 tvg-id="510" tvg-logo="null" group-title="哔哩哔哩",阿梓从小就很可爱
@@ -158,6 +158,10 @@ https://epg.112114.xyz/bilibili/6655
 
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",内幕纠察局
 https://epg.112114.xyz/bilibili/23367901
+
+#EXTINF:-1 tvg-id="21520283" tvg-logo="null" group-title="哔哩哔哩",挑爷评美食
+https://cn-hnly-cu-01-21.bilivideo.com/live-bvc/360659/live_353317161_72653182/index.m3u8?expires=1668866303&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=1007fe1de5d973e0414e9d857073293e39be&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=c69fe0686b16c8ccb058c45d00df5dec&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=a550c145a353285f0062786f15a64b52&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-21&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=jd&source=onetier&site=e870ac27c7891e7f1dc295e0b3e7ac30&order=1
+
 
 
 
