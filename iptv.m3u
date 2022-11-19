@@ -81,8 +81,8 @@ https://d1--cn-gotcha208.bilivideo.com/live-bvc/867325/live_194484313_8775758_bl
 #EXTINF:-1 tvg-id="1017" tvg-logo="null" group-title="哔哩哔哩",逍遥散人
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/807456/live_168598_8439223_bluray/index.m3u8?expires=1668865520&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=10071ceef65edc2c48c389d4d9d7e3eea259&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=cea3eee8ed3809aac1edd0e9eacd5273&sk=dc7da5ec3116549edddcf4f580cdbbd8&p2p_type=0&src=57345&sl=3&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=efb7a886fcde5477e31c7fe082e07f03&order=1
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",南家小唯
-https://epg.112114.xyz/bilibili/1145
+#EXTINF:-1 tvg-id="1145" tvg-logo="null" group-title="哔哩哔哩",南家小唯
+https://cn-hnly-cu-01-04.bilivideo.com/live-bvc/752012/live_387549_2582780/index.m3u8?expires=1668870400&len=0&oi=707866693&pt=h5&qn=10000&trid=1007e390f54e926448eeb0fa1740fa457be1&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=4592b12cf91fad4ba6794d7ae53a03ca&sk=5a1200e4feebe5344b9ca38cc0a6e066&flvsk=e7fc62c489ef21e103dff04af1fce1d2&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-04&chash=1&sche=ban&bvchls=1&score=13&pp=rtmp&machinezone=jd&source=onetier&site=54926158d8ef552f734972a3ec106291&order=1
 
 #EXTINF:-1 tvg-id="22603245" tvg-logo="null" group-title="哔哩哔哩",永雏塔菲
 https://cn-hnly-cu-01-24.bilivideo.com/live-bvc/768518/live_1265680561_8885980_bluray/index.m3u8?expires=1668862442&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=100734c47a16b6b144cd91cff0e50857e936&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=5b2fa4ee06909ecc51b5ba2aff61de95&sk=d65212a7754b1c22799f46fc2619551e&flvsk=0d0be854fe0bd9594f885b3814af55e9&p2p_type=0&src=57345&sl=4&free_type=0&sid=cn-hnly-cu-01-24&chash=1&sche=ban&bvchls=1&score=12&pp=rtmp&machinezone=jd&source=onetier&site=2e3443db1e0cc2af11a6ce421577b14d&order=1
@@ -156,6 +156,9 @@ https://epg.112114.xyz/bilibili/23002074
 #EXTINF:-1 tvg-id="6655" tvg-logo="null" group-title="哔哩哔哩",ywwuyi
 https://c1--cn-gotcha208.bilivideo.com/live-bvc/579482/live_1472906636_11720107_bluray/index.m3u8?expires=1667058228&len=0&oi=707812986&pt=h5&qn=10000&trid=10071021d1b0bc27472f9d48d94bea8dccd6&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=d540d38ea5c17410519d151a4a0ca2ac&sk=bac7d9006d7c2b1ad7f830d674284142&p2p_type=0&src=57345&sl=2&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=8748bf697b0031e8f1090e5f04ae0535&order=1
 
+#EXTINF:-1 tvg-id="3893205" tvg-logo="null" group-title="哔哩哔哩",圣者凭依之躯
+https://cn-sdyt-cu-01-09.bilivideo.com/live-bvc/123349/live_52036318_9303803.m3u8?expires=1668870515&len=0&oi=707866693&pt=h5&qn=10000&trid=1003868ec42ab3f44cadbf5e780f44002966&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=b68ff764a15dd19f38648e6e6662a98e&sk=9f3a312e0565e5710da727290b7ee44a&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-sdyt-cu-01-09&chash=1&sche=ban&score=3&pp=rtmp&machinezone=ylf&source=onetier&site=3c08931a4fc69edf73ff1b93b5fc6cb8&order=1
+
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",内幕纠察局
 https://epg.112114.xyz/bilibili/23367901
 
@@ -187,7 +190,7 @@ https://epg.112114.xyz/douyu/9373808
 https://epg.112114.xyz/douyu/111111
 
 #EXTINF:-1 tvg-id="361433" tvg-logo="null" group-title="网易cc",Mrquin
-http://alipullhls.cc.netease.com/pushstation/e2cde9a16b5147da1854266756597.m3u8?src=web&auth_key=1665755745-54ea9104aefc4fec9c7e0e741ff9862a-0-cf532a429742768628423c88623dfb5b
+https://alipullhls.cc.netease.com/pushstation/e2cde9a16b5147da1854266756597.m3u8?auth_key=1668955114-ead33d4c68fc4c8aa3e0beb2954676da-0-5e90eda122dadcb6794b1dcb4595693c
 
 
 
