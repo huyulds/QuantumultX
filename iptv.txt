@@ -132,8 +132,8 @@ https://epg.112114.xyz/bilibili/631
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",爱否科技FView
 https://epg.112114.xyz/bilibili/545105
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",极客湾Geekerwan
-https://epg.112114.xyz/bilibili/544843
+#EXTINF:-1 tvg-id="544843" tvg-logo="null" group-title="哔哩哔哩",极客湾Geekerwan
+https://cn-hnly-cu-01-06.bilivideo.com/live-bvc/695934/live_25876945_5989814_bluray/index.m3u8?expires=1667058321&len=0&oi=707812986&pt=h5&qn=10000&trid=1007b24b95a3436d466ebe930e3fb6e798ce&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=97e8bb6bb7ed6e15722fc34203f37b73&sk=3abdec76439a6b088bd79e2c2d62ee45&flvsk=0def7dac2df3f587dc7375c6bc087f5c&p2p_type=0&src=57345&sl=7&free_type=0&sid=cn-hnly-cu-01-06&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=ylf&source=onetier&site=b7622a305d4dec265197013f76ba3c6a&order=1
 
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",钟文泽
 https://epg.112114.xyz/bilibili/924160
@@ -153,8 +153,8 @@ https://epg.112114.xyz/bilibili/21449083
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",先看评测
 https://epg.112114.xyz/bilibili/23002074
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",ywwuyi
-https://epg.112114.xyz/bilibili/6655
+#EXTINF:-1 tvg-id="6655" tvg-logo="null" group-title="哔哩哔哩",ywwuyi
+https://c1--cn-gotcha208.bilivideo.com/live-bvc/579482/live_1472906636_11720107_bluray/index.m3u8?expires=1667058228&len=0&oi=707812986&pt=h5&qn=10000&trid=10071021d1b0bc27472f9d48d94bea8dccd6&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=d540d38ea5c17410519d151a4a0ca2ac&sk=bac7d9006d7c2b1ad7f830d674284142&p2p_type=0&src=57345&sl=2&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=8748bf697b0031e8f1090e5f04ae0535&order=1
 
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",内幕纠察局
 https://epg.112114.xyz/bilibili/23367901
