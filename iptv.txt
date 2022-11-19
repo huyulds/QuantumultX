@@ -1,13 +1,6 @@
-#
-#p2p
-視1台,P2p://ns1.hellotvvod.com:9906/91faa433a9544c8785cd215a2ad6fcda
-松視2台,P2p://ns1.hellotvvod.com:9906/80a9c735329544c9ab7fa3e2425f86cd
-PLAYBOY,P2p://ns1.hellotvvod.com:9906/d97f4ae150ba4c6792171c088d1c033f
-香蕉台,P2p://ns1.hellotvvod.com:9906/40968f1afa564083ba7670ec10aabe1a
-松視3台,P2p://ns1.hellotvvod.com:9906/e67a4e22ee4c496282298f612f200fe5
-JStar極限台,P2p://ns1.hellotvvod.com:9906/331c31537de3490cb0dfebcf5b58ac14
-HAPPY,P2p://ns1.hellotvvod.com:9906/634f970f0002bd9d50ba50ab13577c0f
-K,P2p://ns1.hellotvvod.com:9906/302db2d2f4c5487bba0c509275e6378e
+#轮播
+misakaf,http://live.misakaf.org/hls/stream.m3u8
+
 #哔哩哔哩
 
 哔哩哔哩英雄联盟赛事,https://epg.112114.xyz/bilibili/6
@@ -45,7 +38,7 @@ Q-kun,https://epg.112114.xyz/bilibili/1022
 EdmundDZhang,https://epg.112114.xyz/bilibili/5050
 纯黑,https://epg.112114.xyz/bilibili/1023
 神奇陆夫人,https://epg.112114.xyz/bilibili/115
-12dora,https://epg.112114.xyz/bilibili/544786
+12dora,https://cn-hnly-cu-01-21.bilivideo.com/live-bvc/780751/live_70093_3659769/index.m3u8?expires=1668861505&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=1007a80b68040a814201a133897e31309549&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=515f660f256740637bb7b153b2adb374&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=7157c68cc1d15de506d88789910d23c6&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-21&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=ylf&source=onetier&site=83135842a5753328faa5d06b07f04994&order=1
 敖厂长,https://epg.112114.xyz/bilibili/544586
 咬人猫,https://epg.112114.xyz/bilibili/218
 泪腺战士,https://epg.112114.xyz/bilibili/116
@@ -66,9 +59,16 @@ ywwuyi,https://epg.112114.xyz/bilibili/6655
 莱昂凯,https://epg.112114.xyz/huya/314957
 csboy,https://epg.112114.xyz/huya/123321
 CSGO大菠萝,https://epg.112114.xyz/huya/617398
+晴小兔呢,https://epg.112114.xyz/huya/6145134
 
 #斗鱼
 玩机器,https://epg.112114.xyz/douyu/6979222
 NancySzzz,https://epg.112114.xyz/douyu/9373808
+叶知秋,https://epg.112114.xyz/douyu/111111
+
+#网易cc
+Mrquin,http://alipullhls.cc.netease.com/pushstation/e2cde9a16b5147da1854266756597.m3u8?src=web&auth_key=1665755745-54ea9104aefc4fec9c7e0e741ff9862a-0-cf532a429742768628423c88623dfb5b
+
+
 
 
