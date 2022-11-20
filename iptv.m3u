@@ -110,6 +110,12 @@ https://cn-hnly-cu-01-14.bilivideo.com/live-bvc/819689/live_433351_3463687.m3u8?
 #EXTINF:-1 tvg-id="1023" tvg-logo="null" group-title="哔哩哔哩",纯黑
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/584814/live_585267_332_c521e483_bluray/index.m3u8?expires=1668865567&len=0&oi=707866693&pt=h5&qn=10000&trid=1007a9d592cac52948e7b84f8d660e8f9695&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=79cb09df923fb8145e0507be21486906&sk=87c00a3335616773e57127d93ff0ecad&p2p_type=0&src=57345&sl=5&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=ef7ddc117108c8e94b6f75d1f7a50567&order=1
 
+#EXTINF:-1 tvg-id="139" tvg-logo="null" group-title="哔哩哔哩",黑桐谷歌
+https://cn-hnly-cu-01-18.bilivideo.com/live-bvc/186051/live_43536_1316344_bluray/index.m3u8?expires=1668945377&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=web&qn=10000&trid=10074a3bf23f310f4b8681dec5deec908a8d&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=939acacd5e1a09699c2bf61dcba8d490&sk=27302cfe17bcf01580cecfcb698275c8&flvsk=e3aba3a32d33f12ba204825894f385cb&p2p_type=1&src=57345&sl=5&free_type=0&sid=cn-hnly-cu-01-18&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=ylf&source=onetier&site=d0ee358db434ff73ecebcb1ed7f10018&order=2
+
+#EXTINF:-1 tvg-id="942101" tvg-logo="null" group-title="哔哩哔哩",凉风Kaze
+https://cn-hnly-cu-01-09.bilivideo.com/live-bvc/167626/live_14110780_6493457_bluray/index.m3u8?expires=1668945253&len=0&oi=707866693&pt=web&qn=10000&trid=10075d5a0682f71d4428a8da316cfce58e06&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=f3fe0c9e44cff246901fe7cd7a5804ab&sk=27302cfe17bcf01580cecfcb698275c8&flvsk=e3aba3a32d33f12ba204825894f385cb&p2p_type=1&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-09&chash=1&sche=ban&bvchls=1&score=17&pp=rtmp&machinezone=jd&source=onetier&site=31f5d8ef3bc677b65131f1bc86684b55&order=2
+
 #EXTINF:-1 tvg-id="115" tvg-logo="null" group-title="哔哩哔哩",神奇陆夫人
 https://cn-hnly-cu-01-06.bilivideo.com/live-bvc/545940/live_419220_1665587.m3u8?expires=1668933746&len=0&oi=707866693&pt=h5&qn=10000&trid=10031b059af309624adf9212a06454fc518c&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=7726cc2bd958f634674ff9427e654cb8&sk=5fe5c4f66bbca119e8736de306a52916&p2p_type=0&src=57345&sl=6&free_type=0&sid=cn-hnly-cu-01-06&chash=1&sche=ban&score=14&pp=rtmp&source=one&site=dd728deb556f4e1d8ebcd771530b9ccb&order=1
 
