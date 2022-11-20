@@ -29,8 +29,8 @@ https://d1--cn-gotcha208.bilivideo.com/live-bvc/210104/live_1265605287_63785247_
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",梅妻ume
 https://epg.112114.xyz/bilibili/24742685
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",内格夫CSGO
-https://epg.112114.xyz/bilibili/21599195
+#EXTINF:-1 tvg-id="21599195" tvg-logo="null" group-title="哔哩哔哩",内格夫CSGO
+https://cn-sdyt-cu-01-15.bilivideo.com/live-bvc/195504/live_309491479_89046464_bluray/index.m3u8?expires=1668954759&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=web&qn=10000&trid=1007e403048e1f73401497cf649772669526&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=808cf007399525c3ba5d8e059fdf4595&sk=87c00a3335616773e57127d93ff0ecad&flvsk=b6df54012328e502455d040433e3ec02&p2p_type=1&src=57345&sl=2&free_type=0&sid=cn-sdyt-cu-01-15&chash=1&sche=ban&bvchls=1&score=5&pp=rtmp&machinezone=jd&source=onetier&site=284da717e1c5382953484c093a232f71&order=1
 
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",废物弟弟汉堡包
 https://epg.112114.xyz/bilibili/8604981
@@ -65,14 +65,14 @@ https://cn-hnly-cu-01-05.bilivideo.com/live-bvc/879758/live_401315430_50494613/i
 #EXTINF:-1 tvg-id="21672023" tvg-logo="null" group-title="哔哩哔哩",弥希Miki
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/240486/live_477317922_79158269_bluray/index.m3u8?expires=1668951455&len=0&oi=707866693&pt=web&qn=10000&trid=10075ffdbb338cb144bf89e43e0873481df8&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=bcd0ede3148558c9d3a7d78923da69fd&sk=5f3c668d092618412836c79cbb6dac4f&p2p_type=1&src=57345&sl=3&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=7f4dcdd45b84a167d6938b01693a3a3c&order=1
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",七海Nana7mi
-https://epg.112114.xyz/bilibili/21452505
+#EXTINF:-1 tvg-id="21452505" tvg-logo="null" group-title="哔哩哔哩",七海Nana7mi
+https://d1--cn-gotcha208.bilivideo.com/live-bvc/586706/live_434334701_22108373_bluray/index.m3u8?expires=1668954767&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=web&qn=10000&trid=1007349ca84bdd2b4debaf810458110ea0b0&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=df62f5fa66a520e932901a4cbd4de132&sk=27302cfe17bcf01580cecfcb698275c8&p2p_type=1&src=57345&sl=4&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=d206edcda73f63ce03fa88bce0b04786&order=1
 
 #EXTINF:-1 tvg-id="605" tvg-logo="null" group-title="哔哩哔哩",小可学妹
 https://cn-hnly-cu-01-24.bilivideo.com/live-bvc/989334/live_14387072_3823515_bluray.m3u8?expires=1668934933&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=h5&qn=10000&trid=10035c1109dc121c4e07b934890a00fcbed2&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=5ae9411383d3dcb47a72071447afd1b6&sk=e3aba3a32d33f12ba204825894f385cb&p2p_type=0&src=57345&sl=2&free_type=0&sid=cn-hnly-cu-01-24&chash=1&sche=ban&score=11&pp=rtmp&source=one&site=b03e0620d111866f64de3053ca253d6f&order=1
 
 #EXTINF:-1 tvg-id="510" tvg-logo="null" group-title="哔哩哔哩",阿梓从小就很可爱
-https://cn-hnly-cu-01-05.bilivideo.com/live-bvc/436517/live_7706705_4063361_bluray/index.m3u8?expires=1668862383&len=0&oi=707866693&pt=h5&qn=10000&trid=1007a742fa0a578e43b0a61a8eb8291a24f5&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=306939b265d87e933ae5db81107f0ea3&sk=8902e9ba4f4c8ef24395013bbe65dba8&flvsk=df739001013e4655328c9a3da73fc4ac&p2p_type=0&src=57345&sl=5&free_type=0&sid=cn-hnly-cu-01-05&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=jd&source=onetier&site=400e28aaf3f0edc4b206f72598d976a5&order=1
+https://cn-hnly-cu-01-05.bilivideo.com/live-bvc/276456/live_7706705_4063361_bluray/index.m3u8?expires=1668954739&len=0&oi=707866693&pt=web&qn=10000&trid=10076a2c6dff3e9a4642891bdda7e5b786dd&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=267f82364671fd7aa876da3affc2567f&sk=0da49ffcc09600a8ce866118838e8bce&flvsk=f8b05d5ad245532f97ccc0c38898d9e5&p2p_type=1&src=57345&sl=5&free_type=0&sid=cn-hnly-cu-01-05&chash=1&sche=ban&bvchls=1&score=13&pp=rtmp&machinezone=ylf&source=onetier&site=2e4944b200b6df11b51665aa6375704a&order=1
 
 #EXTINF:-1 tvg-id="732" tvg-logo="null" group-title="哔哩哔哩",Asaki大人
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/867325/live_194484313_8775758_bluray/index.m3u8?expires=1668862404&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=1007e560392965cb48588844e0c524415f02&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=fe9302ef43f35e8f24411382724baf38&sk=330f650b9533b9f0f356c6d4c72b66e7&p2p_type=0&src=57345&sl=9&free_type=0&pp=rtmp&machinezone=jd&source=onetier&site=37e22638667707276b9e648924ef95de&order=1
@@ -173,9 +173,8 @@ https://cn-hnly-cu-01-21.bilivideo.com/live-bvc/360659/live_353317161_72653182/i
 #EXTINF:-1 tvg-id="1006" tvg-logo="null" group-title="哔哩哔哩",鱼炒饭
 https://cn-hnly-cu-01-06.bilivideo.com/live-bvc/419849/live_25753_6349471.m3u8?expires=1668920895&len=0&oi=707866693&pt=h5&qn=10000&trid=1003223496e1d53a428f93ef56f8165d232e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=d060e7586dc9a294caead380937cd219&sk=cde2e46b6fc87945264e4b66cc3b6e17&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-06&chash=1&sche=ban&score=4&pp=rtmp&source=one&site=9ecb2cf5081c27af05254399982af790&order=1
 
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://i0.hdslb.com/bfs/face/5f60d345059b82f0878984d9f9133f45b33b82be.jpg" group-title="聚会游戏",泛式
-https://epg.112114.xyz/bilibili/33989
-
+#EXTINF:-1 tvg-id="33989" tvg-logo="https://i0.hdslb.com/bfs/face/5f60d345059b82f0878984d9f9133f45b33b82be.jpg" group-title="聚会游戏",泛式
+https://d1--cn-gotcha208.bilivideo.com/live-bvc/543274/live_63231_332_c521e483_bluray/index.m3u8?expires=1668954775&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=web&qn=10000&trid=1007784cae073acb49368af5734982874e3f&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=c83feb5d18444b1231b6aab97ac579e6&sk=27302cfe17bcf01580cecfcb698275c8&p2p_type=1&src=57345&sl=10&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=ab00d94626376015e892c99b547516cf&order=1
 
 #EXTINF:-1 tvg-id="314957" tvg-logo="null" group-title="虎牙",莱昂凯
 https://epg.112114.xyz/huya/314957
