@@ -48,7 +48,7 @@ https://epg.112114.xyz/bilibili/25255343
 https://c1--cn-gotcha208.bilivideo.com/live-bvc/298618/live_25912175_4839296/index.m3u8?expires=1668865607&len=0&oi=707866693&pt=h5&qn=10000&trid=10077d91c327638e479bba82cd2a4aad2988&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=e151a86d0d75f7c29284cbaf24cfaa9c&sk=b0b4cd73060f500b247bbf63a32a3a03&p2p_type=0&src=57345&sl=1&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=9f1a40292f0875caa7eb63d2351b3de9&order=1
 
 #EXTINF:-1 tvg-id="246" tvg-logo="null" group-title="哔哩哔哩",杆菌无敌
-https://cn-hnly-cu-01-13.bilivideo.com/live-bvc/852770/live_164627_2722814_bluray/index.m3u8?expires=1668862251&len=0&oi=707866693&pt=h5&qn=10000&trid=1007d210b51c0eb448969755e6c9257874d0&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=27673bd7cd6531b7c55b4ddb4f6db06c&sk=657866af8fc16d8b2b84dfdde3e981438dff44b02a5b137933388fa4fca4c196&flvsk=1304f646dfeb4df8b6e7ff33c167d3ade5499fb3816ee44156bf0a67c558bc61&p2p_type=0&src=57345&sl=3&free_type=0&sid=cn-hnly-cu-01-13&chash=1&sche=ban&bvchls=1&score=12&pp=rtmp&machinezone=ylf&source=onetier&site=a1eb5106f80e9650b672d7d8c288f755&order=1
+https://cn-hnly-cu-01-18.bilivideo.com/live-bvc/732353/live_164627_2722814/index.m3u8?expires=1668919796&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=h5&qn=10000&trid=10078c67207c5e9c4e6396c104bc48ff7ccf&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=46ee7b3680eda70f48562ec3839f20c9&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=6d74a9a0086c15d4b2a62bc0c6e3a8c0&p2p_type=0&src=57345&sl=3&free_type=0&sid=cn-hnly-cu-01-18&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=ylf&source=onetier&site=dfce10cea338cce79725d3b46492cb78&order=1
 
 #EXTINF:-1 tvg-id="21919321" tvg-logo="null" group-title="哔哩哔哩"hiiroVTuber
 https://epg.112114.xyz/bilibili/21919321
@@ -143,8 +143,8 @@ https://epg.112114.xyz/bilibili/924160
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",雪绘Yukie
 https://epg.112114.xyz/bilibili/21756924
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",淡希Reset
-https://epg.112114.xyz/bilibili/5542
+#EXTINF:-1 tvg-id="5542" tvg-logo="null" group-title="哔哩哔哩",淡希Reset
+https://cn-hnly-cu-01-19.bilivideo.com/live-bvc/249123/live_220316581_4804670/index.m3u8?expires=1668914806&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=web&qn=10000&trid=1007f955f1ec058441429baa6cf905e7d46a&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=ba7ec48e790a3764d25057cc7cb266b6&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=f3250a5abbe81ab3113029bdd3e2ac15&p2p_type=1&src=57345&sl=2&free_type=0&sid=cn-hnly-cu-01-19&chash=1&sche=ban&bvchls=1&score=13&pp=rtmp&machinezone=ylf&source=onetier&site=478d4729541afc2cdad3e52827d79716&order=1
 
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",神楽七奈Official
 https://epg.112114.xyz/bilibili/21304638
@@ -167,7 +167,8 @@ https://epg.112114.xyz/bilibili/23367901
 #EXTINF:-1 tvg-id="21520283" tvg-logo="null" group-title="哔哩哔哩",挑爷评美食
 https://cn-hnly-cu-01-21.bilivideo.com/live-bvc/360659/live_353317161_72653182/index.m3u8?expires=1668866303&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=1007fe1de5d973e0414e9d857073293e39be&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=c69fe0686b16c8ccb058c45d00df5dec&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=a550c145a353285f0062786f15a64b52&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-21&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=jd&source=onetier&site=e870ac27c7891e7f1dc295e0b3e7ac30&order=1
 
-
+#EXTINF:-1 tvg-id="1006" tvg-logo="null" group-title="哔哩哔哩",鱼炒饭
+https://cn-hnly-cu-01-06.bilivideo.com/live-bvc/419849/live_25753_6349471.m3u8?expires=1668920895&len=0&oi=707866693&pt=h5&qn=10000&trid=1003223496e1d53a428f93ef56f8165d232e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=d060e7586dc9a294caead380937cd219&sk=cde2e46b6fc87945264e4b66cc3b6e17&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-06&chash=1&sche=ban&score=4&pp=rtmp&source=one&site=9ecb2cf5081c27af05254399982af790&order=1
 
 
 #EXTINF:-1 tvg-id="314957" tvg-logo="null" group-title="虎牙",莱昂凯
