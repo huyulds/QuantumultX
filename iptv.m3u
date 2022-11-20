@@ -50,7 +50,7 @@ https://c1--cn-gotcha208.bilivideo.com/live-bvc/298618/live_25912175_4839296/ind
 #EXTINF:-1 tvg-id="246" tvg-logo="null" group-title="哔哩哔哩",杆菌无敌
 https://cn-hnly-cu-01-18.bilivideo.com/live-bvc/732353/live_164627_2722814/index.m3u8?expires=1668919796&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=h5&qn=10000&trid=10078c67207c5e9c4e6396c104bc48ff7ccf&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=46ee7b3680eda70f48562ec3839f20c9&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=6d74a9a0086c15d4b2a62bc0c6e3a8c0&p2p_type=0&src=57345&sl=3&free_type=0&sid=cn-hnly-cu-01-18&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=ylf&source=onetier&site=dfce10cea338cce79725d3b46492cb78&order=1
 
-#EXTINF:-1 tvg-id="21919321" tvg-logo="null" group-title="哔哩哔哩"hiiroVTuber
+#EXTINF:-1 tvg-id="21919321" tvg-logo="null" group-title="哔哩哔哩",hiiroVTuber
 https://epg.112114.xyz/bilibili/21919321
 
 #EXTINF:-1 tvg-id="21470918" tvg-logo="null" group-title="哔哩哔哩",CSGO久菜合子
@@ -122,8 +122,8 @@ https://cn-hnly-cu-01-21.bilivideo.com/live-bvc/780751/live_70093_3659769/index.
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",敖厂长
 https://epg.112114.xyz/bilibili/544586
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",咬人猫
-https://epg.112114.xyz/bilibili/218
+#EXTINF:-1 tvg-id="218" tvg-logo="null" group-title="哔哩哔哩",咬人猫
+https://cn-hnly-cu-01-01.bilivideo.com/live-bvc/245332/live_116683_332_c521e483/index.m3u8?expires=1668923785&len=0&oi=707866693&pt=h5&qn=10000&trid=100769b43c8f92274d41893e6e6905f34a8f&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=74a08c34ec02f2aaa42bfbe41c1654b2&sk=798a04ff90b57bdeba579778a38adcb7&flvsk=fc7a256cd9cbfd6f03cafb70934f2b68&p2p_type=0&src=57345&sl=3&free_type=0&sid=cn-hnly-cu-01-01&chash=1&sche=ban&bvchls=1&score=15&pp=rtmp&machinezone=jd&source=onetier&site=281885fedce8e6a314a701a7eeb5f674&order=1
 
 #EXTINF:-1 tvg-id="116" tvg-logo="null" group-title="哔哩哔哩",泪腺战士
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/744973/live_374377_4093634_bluray/index.m3u8?expires=1668862667&len=0&oi=707866693&pt=h5&qn=10000&trid=10071ff688f3f8954e4e87ee42852f4512a9&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=50a9c2007866e913047e588d620fd4cb&sk=5a1200e4feebe5344b9ca38cc0a6e066&p2p_type=0&src=57345&sl=9&free_type=0&pp=rtmp&machinezone=jd&source=onetier&site=4632bb318497391658b4102417aaab7a&order=1
