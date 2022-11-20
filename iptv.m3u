@@ -140,8 +140,8 @@ https://cn-hnly-cu-01-06.bilivideo.com/live-bvc/695934/live_25876945_5989814_blu
 #EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",钟文泽
 https://epg.112114.xyz/bilibili/924160
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",雪绘Yukie
-https://epg.112114.xyz/bilibili/21756924
+#EXTINF:-1 tvg-id="21756924" tvg-logo="null" group-title="哔哩哔哩",雪绘Yukie
+https://cn-hnly-cu-01-10.bilivideo.com/live-bvc/511233/live_56748733_27718907/index.m3u8?expires=1668931998&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=h5&qn=10000&trid=10077f5bf01fca0f4f13a487fa9e96cbfc9c&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=8024d7880a628eb351cb902886f146aa&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=14d51c1a6dc228c92ade944fd1770e3b&p2p_type=0&src=57345&sl=3&free_type=0&sid=cn-hnly-cu-01-10&chash=1&sche=ban&bvchls=1&score=11&pp=rtmp&machinezone=ylf&source=onetier&site=6b4d132177d118e8fae6d45afe9e46bc
 
 #EXTINF:-1 tvg-id="5542" tvg-logo="null" group-title="哔哩哔哩",淡希Reset
 https://cn-hnly-cu-01-19.bilivideo.com/live-bvc/249123/live_220316581_4804670/index.m3u8?expires=1668914806&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=web&qn=10000&trid=1007f955f1ec058441429baa6cf905e7d46a&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=ba7ec48e790a3764d25057cc7cb266b6&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=f3250a5abbe81ab3113029bdd3e2ac15&p2p_type=1&src=57345&sl=2&free_type=0&sid=cn-hnly-cu-01-19&chash=1&sche=ban&bvchls=1&score=13&pp=rtmp&machinezone=ylf&source=onetier&site=478d4729541afc2cdad3e52827d79716&order=1
@@ -195,6 +195,4 @@ https://epg.112114.xyz/douyu/111111
 #EXTINF:-1 tvg-id="361433" tvg-logo="null" group-title="网易cc",Mrquin
 https://alipullhls.cc.netease.com/pushstation/e2cde9a16b5147da1854266756597.m3u8?auth_key=1668955114-ead33d4c68fc4c8aa3e0beb2954676da-0-5e90eda122dadcb6794b1dcb4595693c
 
-
-https://cn-hnly-cu-01-06.bilivideo.com/live-bvc/727309/live_374377_4093634/index.m3u8?expires=1668930304&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=h5&qn=10000&trid=10073c9b6b7aa0dd4a5fb4d582305720ce24&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=e85b629c45c91277e59acaa2cbed270a&sk=a5644e4a922dba7ae96d5e03015fee6a&p2p_type=0&src=57345&sl=9&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=5811cf97e5c7139b1132b4027162c054&order=1
 
