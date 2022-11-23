@@ -32,8 +32,8 @@ https://epg.112114.xyz/bilibili/24742685
 #EXTINF:-1 tvg-id="21599195" tvg-logo="https://i1.hdslb.com/bfs/face/59b59bf0ca12383dcbc21aef5714faec83ed8e10.jpg" group-title="哔哩哔哩",内格夫CSGO
 https://cn-sdyt-cu-01-15.bilivideo.com/live-bvc/195504/live_309491479_89046464_bluray/index.m3u8?expires=1668954759&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=web&qn=10000&trid=1007e403048e1f73401497cf649772669526&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=808cf007399525c3ba5d8e059fdf4595&sk=87c00a3335616773e57127d93ff0ecad&flvsk=b6df54012328e502455d040433e3ec02&p2p_type=1&src=57345&sl=2&free_type=0&sid=cn-sdyt-cu-01-15&chash=1&sche=ban&bvchls=1&score=5&pp=rtmp&machinezone=jd&source=onetier&site=284da717e1c5382953484c093a232f71&order=1
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i1.hdslb.com/bfs/face/ca897a8e28787e40414f6f00ae5ae5454dcbb177.jpg group-title="哔哩哔哩",废物弟弟汉堡包
-https://epg.112114.xyz/bilibili/8604981
+#EXTINF:-1 tvg-id="8604981" tvg-logo="https://i1.hdslb.com/bfs/face/ca897a8e28787e40414f6f00ae5ae5454dcbb177.jpg group-title="哔哩哔哩",废物弟弟汉堡包
+https://cn-hnly-cu-01-08.bilivideo.com/live-bvc/212816/live_507694_3639429_bluray.m3u8?expires=1669198755&len=0&oi=707916240&pt=h5&qn=10000&trid=100366e62f7c7d55424ca6c05c32172d9e18&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=968e46f4372e4cabdd1c7747ccc61e5d&sk=50b19cfbeb61c9fb3ba80617c103690a&p2p_type=0&src=57345&sl=6&free_type=0&sid=cn-hnly-cu-01-08&chash=1&sche=ban&score=14&pp=rtmp&machinezone=ylf&source=onetier&site=b32d28b735462ee754460460ee9339ea&order=1
 
 #EXTINF:-1 tvg-id="22889518" tvg-logo="https://i2.hdslb.com/bfs/face/e2932c394eedfbc9494b7c104850dcaed2d13c30.jpg" group-title="哔哩哔哩",CSGO--德云
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/506327/live_384942089_80975535/index.m3u8?expires=1669197457&len=0&oi=0x24088352da00eea7916faa2d18f4716f&pt=web&qn=10000&trid=10070c0d10996d684dfe896a0d3a0da547b7&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=7aeea7928016a797c59c0188a3122c8a&sk=f37c8d4a73ff1f462b063417740ffbdf&p2p_type=1&src=57345&sl=2&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=b81e3b8e07d0216daff83e3b6ea1a219&order=1
@@ -41,8 +41,11 @@ https://d1--cn-gotcha208.bilivideo.com/live-bvc/506327/live_384942089_80975535/i
 #EXTINF:-1 tvg-id="35" tvg-logo="https://i1.hdslb.com/bfs/face/0c89136f648dbf1f1145a7af13eb06ae984de0c4.jpg" group-title="哔哩哔哩",CSGO官方赛事
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/742975/live_21622811_bs_5932255_bluray/index.m3u8?expires=1669197457&len=0&oi=0x24088352da00eea7916faa2d18f4716f&pt=web&qn=10000&trid=10072c1bcbb72ba94834be30b417c48366ef&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=26ad4bbba7115c500a2609f70908ca25&sk=f8acd4e1a7cb2b4d12352fc9ce9e184f&p2p_type=1&src=57345&sl=3&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=b81e3b8e07d0216daff83e3b6ea1a219&order=1
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i1.hdslb.com/bfs/face/00981afbe0562c34f53b8279670a3e0ebd1f21c8.jpg" group-title="哔哩哔哩",AYCSGO
-https://epg.112114.xyz/bilibili/25255343
+#EXTINF:-1 tvg-id="34" tvg-logo="https://i1.hdslb.com/bfs/face/0c89136f648dbf1f1145a7af13eb06ae984de0c4.jpg" group-title="哔哩哔哩",CSGO官方赛事
+https://c1--cn-gotcha208.bilivideo.com/live-bvc/956438/live_474595626_82346402/index.m3u8?expires=1669198829&len=0&oi=707916240&pt=web&qn=10000&trid=1007fd0b5422aa084ecbb2c8ae9ae1f415cc&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=b6f01924c2f791ea11b2631fa0f12583&sk=f8acd4e1a7cb2b4d12352fc9ce9e184f&p2p_type=1&src=57345&sl=2&free_type=0&pp=rtmp&machinezone=jd&source=onetier&site=45c0ccec62652db8dc055247dd568852&order=1
+
+#EXTINF:-1 tvg-id="25255343" tvg-logo="https://i1.hdslb.com/bfs/face/00981afbe0562c34f53b8279670a3e0ebd1f21c8.jpg" group-title="哔哩哔哩",AYCSGO
+https://cn-hnly-cu-01-07.bilivideo.com/live-bvc/170868/live_203680252_73496847/index.m3u8?expires=1669198111&len=0&oi=707916240&pt=web&qn=10000&trid=1007c7a288e878744222831c860e374ec35a&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=9de55fad6ce85863f812e67df5b08ab5&sk=05a08e8d325802831e1c9f5a55cb529e&flvsk=ae6c03b7c515e54d90c7de55d8023b60&p2p_type=1&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-07&chash=1&sche=ban&bvchls=1&score=11&pp=rtmp&machinezone=jd&source=onetier&site=8dae8a5d88162dc79cf8506232a56d31&order=1
 
 #EXTINF:-1 tvg-id="924328" tvg-logo="https://i2.hdslb.com/bfs/face/0fe463b0a8c163980018358e5f0b9df7e867f78f.jpg" group-title="哔哩哔哩",dq-CSGO
 https://c1--cn-gotcha208.bilivideo.com/live-bvc/298618/live_25912175_4839296/index.m3u8?expires=1668865607&len=0&oi=707866693&pt=h5&qn=10000&trid=10077d91c327638e479bba82cd2a4aad2988&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=e151a86d0d75f7c29284cbaf24cfaa9c&sk=b0b4cd73060f500b247bbf63a32a3a03&p2p_type=0&src=57345&sl=1&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=9f1a40292f0875caa7eb63d2351b3de9&order=1
