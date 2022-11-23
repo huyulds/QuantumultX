@@ -35,11 +35,11 @@ https://cn-sdyt-cu-01-15.bilivideo.com/live-bvc/195504/live_309491479_89046464_b
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i1.hdslb.com/bfs/face/ca897a8e28787e40414f6f00ae5ae5454dcbb177.jpg group-title="哔哩哔哩",废物弟弟汉堡包
 https://epg.112114.xyz/bilibili/8604981
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i2.hdslb.com/bfs/face/e2932c394eedfbc9494b7c104850dcaed2d13c30.jpg" group-title="哔哩哔哩",CSGO--德云
-https://epg.112114.xyz/bilibili/22889518
+#EXTINF:-1 tvg-id="22889518" tvg-logo="https://i2.hdslb.com/bfs/face/e2932c394eedfbc9494b7c104850dcaed2d13c30.jpg" group-title="哔哩哔哩",CSGO--德云
+https://d1--cn-gotcha208.bilivideo.com/live-bvc/506327/live_384942089_80975535/index.m3u8?expires=1669197457&len=0&oi=0x24088352da00eea7916faa2d18f4716f&pt=web&qn=10000&trid=10070c0d10996d684dfe896a0d3a0da547b7&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=7aeea7928016a797c59c0188a3122c8a&sk=f37c8d4a73ff1f462b063417740ffbdf&p2p_type=1&src=57345&sl=2&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=b81e3b8e07d0216daff83e3b6ea1a219&order=1
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i1.hdslb.com/bfs/face/0c89136f648dbf1f1145a7af13eb06ae984de0c4.jpg" group-title="哔哩哔哩",CSGO官方赛事
-https://epg.112114.xyz/bilibili/35
+#EXTINF:-1 tvg-id="35" tvg-logo="https://i1.hdslb.com/bfs/face/0c89136f648dbf1f1145a7af13eb06ae984de0c4.jpg" group-title="哔哩哔哩",CSGO官方赛事
+https://d1--cn-gotcha208.bilivideo.com/live-bvc/742975/live_21622811_bs_5932255_bluray/index.m3u8?expires=1669197457&len=0&oi=0x24088352da00eea7916faa2d18f4716f&pt=web&qn=10000&trid=10072c1bcbb72ba94834be30b417c48366ef&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=26ad4bbba7115c500a2609f70908ca25&sk=f8acd4e1a7cb2b4d12352fc9ce9e184f&p2p_type=1&src=57345&sl=3&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=b81e3b8e07d0216daff83e3b6ea1a219&order=1
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i1.hdslb.com/bfs/face/00981afbe0562c34f53b8279670a3e0ebd1f21c8.jpg" group-title="哔哩哔哩",AYCSGO
 https://epg.112114.xyz/bilibili/25255343
@@ -193,8 +193,7 @@ https://d1--cn-gotcha208.bilivideo.com/live-bvc/981766/live_210628_332_c521e483/
 https://live.bilibili.com/23668205?is_room_feed=1
 
 #EXTINF:-1 tvg-id="956152" tvg-logo="null" group-title="哔哩哔哩",獭耳
-https://live.bilibili.com/956152?is_room_feed=1
-
+https://cn-hnly-cu-01-15.bilivideo.com/live-bvc/743009/live_352111_2624479_bluray/index.m3u8?expires=1669197461&len=0&oi=0x24088352da00eea7916faa2d18f4716f&pt=web&qn=10000&trid=10078acc0bc7bad74ec981813b7c19c99e08&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=192b8fe238f942828296a2f38e1f2481&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=2935686d6cb9146c7a6a6a0b4e120e2557adc0b48de99725a5887e843ee476a1&p2p_type=1&src=57345&sl=2&free_type=0&sid=cn-hnly-cu-01-15&chash=1&sche=ban&bvchls=1&score=11&pp=rtmp&machinezone=jd&source=onetier&site=902c6fb6d07eb8e7e29950dd31b50120&order=1
 #EXTINF:-1 tvg-id="931522" tvg-logo="null" group-title="哔哩哔哩",机智的肯尼
 https://live.bilibili.com/931522?is_room_feed=0
 
