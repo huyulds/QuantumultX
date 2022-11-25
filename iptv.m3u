@@ -3,6 +3,18 @@
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i2.hdslb.com/bfs/face/cb620bbb9071974f37843134875d472b47532a97.jpg" group-title="哔哩哔哩",哔哩哔哩英雄联盟赛事
 https://cn-hnly-cu-01-19.bilivideo.com/live-bvc/847709/live_7734200_bs_7236416_bluray.m3u8?expires=1668934342&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=h5&qn=10000&trid=1003dbb661587ecf48c69b6427fc78eda6f9&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=3bb708494969e70e16bb023f568b2f5e&sk=92dc61c81bc913e5afc961deeaea22a3&p2p_type=0&src=57345&sl=10&free_type=0&sid=cn-hnly-cu-01-19&chash=0&sche=ban&score=18&pp=rtmp&source=one&site=17afa3d7d2099ebad9d01f6b4cdeeee1&order=1
 
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i2.hdslb.com/bfs/face/cb620bbb9071974f37843134875d472b47532a97.jpg" group-title="抖音",世界杯HD
+https://pull-flv-spe-l11.douyinliving.com/fantasy/stream-112027937376567990_hd.flv?_neptune_token=MIGYBAwAztL8uJ-RP4z09toEdoIl9hudyrzhGU_WrznL4vsTqjpnbYrDOHvfxsfyw3-dgxMEGoL0cv4L4u8-bUTxSEww7fDgAa9nmNnu4OnLhbSkoSF_aqDVp-7a-9CX6Fqu_kliRqK9mAQkqeBVNhZAuD9RZo3qE_EjIS-3BKvjkDv2hUAMRYMEEKF1Rt6mYReUTsUh4HlL-sA&expire=1669467561&sign=f193361d56fac4072e312f6b2b2105b7&abr_pts=-1800
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i2.hdslb.com/bfs/face/cb620bbb9071974f37843134875d472b47532a97.jpg" group-title="抖音",世界杯UHD
+https://pull-flv-spe-l11.douyinliving.com/fantasy/stream-112027937376567990_uhd.flv?_neptune_token=MIGYBAwAztL8uJ-RP4z09toEdoIl9hudyrzhGU_WrznL4vsTqjpnbYrDOHvfxsfyw3-dgxMEGoL0cv4L4u8-bUTxSEww7fDgAa9nmNnu4OnLhbSkoSF_aqDVp-7a-9CX6Fqu_kliRqK9mAQkqeBVNhZAuD9RZo3qE_EjIS-3BKvjkDv2hUAMRYMEEKF1Rt6mYReUTsUh4HlL-sA&expire=1669467561&sign=85c98cf0c797ce680873cfba0d607200&abr_pts=-1800
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i2.hdslb.com/bfs/face/cb620bbb9071974f37843134875d472b47532a97.jpg" group-title="抖音",世界杯UHD60
+https://pull-flv-spe-l11.douyincdn.com/fantasy/stream-112027937376567990_spuhd.flv?_neptune_token=MIGmBAyN08JFLZ_e8XBEM0oEgYOHJRpppZkuOji-U-l5Px5sbMDK-3HZzcOmnqsH16fKpAUqzjE-ZHa9jM8mVzhVnqFuNPQh1NPwLqXcGncTLB1EbEoIFrTrlbYTj_M7Nycy89IHbgwfTuO9T16imTeDBDT9Qi_oWAqqqzSXeUdW69wplHlV4JXUXUWe54BSsz6yoJp-ZwQQLej7kJr78DVtRPCRV-PiRw&expire=1669467860&sign=0888450cc2a4c76d2a1d3ddd5a55a652&abr_pts=-1800
+
+#EXTINF:-1 tvg-id="21987615" tvg-logo="https://i2.hdslb.com/bfs/face/b79e750ecbfac35109bf6952807b404afb480aa2.jpg" group-title="哔哩哔哩",原神
+https://d1--cn-gotcha208.bilivideo.com/live-bvc/422111/live_401742377_19881429_bluray/index.m3u8?expires=1669381583&len=0&oi=0x24088352da00eea7916faa2d18f4716f&pt=web&qn=10000&trid=10074a2bfc0cae494a0e96b64ae76906d87b&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=7cec956bff7ca384307f7a46ecc6cdc3&sk=81aabf2e221f3f09d9e986a66f6331c6&p2p_type=1&src=57345&sl=10&free_type=0&pp=rtmp&machinezone=jd&source=onetier&trace=0&site=3b7d7d49588a12575688894bdb0766f7&order=1
+
 #EXTINF:-1 tvg-id="1" tvg-logo="null" group-title="轮播",misakaf
 http://live.misakaf.org/hls/stream.m3u8
 
@@ -158,7 +170,7 @@ https://cn-hnly-cu-01-19.bilivideo.com/live-bvc/249123/live_220316581_4804670/in
 https://epg.112114.xyz/bilibili/21304638
 
 #EXTINF:-1 tvg-id="21449083" tvg-logo="http://i2.hdslb.com/bfs/face/b47463d917ec2dc7ef34951d51df490fa7f89531.jpg" group-title="哔哩哔哩",物述有栖Official
-https://cn-hnly-cu-01-07.bilivideo.com/live-bvc/238876/live_3149619_9029693_bluray/index.m3u8?expires=1668951453&len=0&oi=707866693&pt=web&qn=10000&trid=1007c1651d8b6629492392429fd8cf37e39c&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=8f810b4c24bf4b26475d689ecae6b8eb&sk=5a1200e4feebe5344b9ca38cc0a6e066&flvsk=e7fc62c489ef21e103dff04af1fce1d2&p2p_type=1&src=57345&sl=3&free_type=0&sid=cn-hnly-cu-01-07&chash=1&sche=ban&bvchls=1&score=12&pp=rtmp&machinezone=ylf&source=onetier&site=d9e23f856b56efb060eb7600e7bd2068&order=1
+https://d1--cn-gotcha208.bilivideo.com/live-bvc/875772/live_434565011_49442057_bluray/index.m3u8?expires=1669390564&len=0&oi=0x24088352da00eea7916faa2d18f4716f&pt=web&qn=10000&trid=10072a8dbe05c4d543c6862adca04f8ce4ea&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=335e9b25ba521aa1dfc0894484fad14a&sk=27302cfe17bcf01580cecfcb698275c8&p2p_type=1&src=57345&sl=3&free_type=0&pp=rtmp&machinezone=jd&source=onetier&site=0d949e5ca5251b766cbbbc66b91d4954&order=2
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i2.hdslb.com/bfs/face/70e3612931063c432eab5818d756df08097ad334.jpg" group-title="哔哩哔哩",先看评测
 https://epg.112114.xyz/bilibili/23002074
