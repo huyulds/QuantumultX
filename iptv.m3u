@@ -18,6 +18,9 @@ https://d1--cn-gotcha208.bilivideo.com/live-bvc/422111/live_401742377_19881429_b
 #EXTINF:-1 tvg-id="1" tvg-logo="null" group-title="轮播",misakaf
 http://live.misakaf.org/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="739" tvg-logo="https://i1.hdslb.com/bfs/face/e9e613fd43bac62672a5e4c828a07fe155c1965a.jpg" group-title="轮播",叫我棉被
+https://cn-hnly-cu-01-23.bilivideo.com/live-bvc/618409/live_6014992_3655233_bluray/index.m3u8?expires=1669896154&len=0&oi=0x24088352da01642b916faa2d18f4716f&pt=web&qn=10000&trid=1007398f02f94d77467aad437e37754da852&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=ec337392ad34fb5c7c6194e74e94cb0e&sk=657866af8fc16d8b2b84dfdde3e98143e94acb5d1a3a50bd0d253c50ef412f31&flvsk=1304f646dfeb4df8b6e7ff33c167d3ad87b2a035213a12b2efcdf778dee61a04&p2p_type=1&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-23&chash=1&sche=ban&bvchls=1&score=13&pp=rtmp&machinezone=ylf&source=onetier&trace=8&site=f9ebacf8f58daaf473473727e7b529fe&order=1
+
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i1.hdslb.com/bfs/face/361274190d08a36ed12c58b55dd4063cde3391eb.jpg" group-title="哔哩哔哩",C酱です
 https://cn-hnly-cu-01-11.bilivideo.com/live-bvc/841213/live_46936_bs_5716239_bluray.m3u8?expires=1668934329&len=0&oi=0x24088352da00bdb6b83fd3806679b5fb&pt=h5&qn=10000&trid=10030800c66c413946ad91ebbee0fa0c0b5c&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=8a797dd5a24d531677d9abd95fe89e59&sk=e2b5836b6a82010aa030d7306b4a4b8d&p2p_type=0&src=57345&sl=10&free_type=0&sid=cn-hnly-cu-01-11&chash=0&sche=ban&score=12&pp=rtmp&source=one&site=5ecea33b420f6c21b96972b803730cc3&order=1
 
@@ -206,7 +209,7 @@ https://cn-sdyt-cu-01-09.bilivideo.com/live-bvc/435802/live_218332_6860921/index
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/981766/live_210628_332_c521e483/index.m3u8?expires=1669128468&len=0&oi=707916240&pt=web&qn=10000&trid=1007a9b832ffc0a845918c710c606614746d&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=77a6d7158574e3ba1b8508970aefed86&sk=996393b4b1c43e316a4bc6b90dccc41b&p2p_type=1&src=57345&sl=2&free_type=0&pp=rtmp&machinezone=jd&source=onetier&site=04ce0c9e0de8dc0827b19bfbfbbfaac4&order=1
 
 #EXTINF:-1 tvg-id="23668205" tvg-logo="https://i0.hdslb.com/bfs/face/66c74d6372d24369a01591110c821474bb2cff27.jpg" group-title="哔哩哔哩",Clown战神
-https://live.bilibili.com/23668205?is_room_feed=1
+https://d1--cn-gotcha208.bilivideo.com/live-bvc/750225/live_21444828_70282950/index.m3u8?expires=1669822291&len=0&oi=0x24088352da01642b916faa2d18f4716f&pt=web&qn=10000&trid=100724e4c4142cc542bc86e6ad91711b82e6&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=b7ac70b6d7cbcbe69f631fe08d1e4504&sk=6264b39031a9570c8511bb2293d9b386&p2p_type=1&src=57345&sl=1&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&trace=0&site=82f2edd0f253f634a8a55a7637fcc46f&order=1
 
 #EXTINF:-1 tvg-id="956152" tvg-logo="https://i1.hdslb.com/bfs/face/ffe6500d16f72162b0287f1e63f5c9211642133d.jpg" group-title="哔哩哔哩",獭耳
 https://cn-hnly-cu-01-15.bilivideo.com/live-bvc/743009/live_352111_2624479_bluray/index.m3u8?expires=1669197461&len=0&oi=0x24088352da00eea7916faa2d18f4716f&pt=web&qn=10000&trid=10078acc0bc7bad74ec981813b7c19c99e08&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=192b8fe238f942828296a2f38e1f2481&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=2935686d6cb9146c7a6a6a0b4e120e2557adc0b48de99725a5887e843ee476a1&p2p_type=1&src=57345&sl=2&free_type=0&sid=cn-hnly-cu-01-15&chash=1&sche=ban&bvchls=1&score=11&pp=rtmp&machinezone=jd&source=onetier&site=902c6fb6d07eb8e7e29950dd31b50120&order=1
