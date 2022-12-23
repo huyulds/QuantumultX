@@ -1,169 +1,272 @@
+#./N_m3u8DL-RE.exe "https://epg.112114.xyz/bili/25034104" --tmp-dir "G:\GAMEtemp\iptv\temp" --save-dir "G:\GAMEtemp\iptv\明前奶绿" --save-name "明前奶绿" --live-real-time-merge --del-after-done --live-record-limit <01:00:00> 
+#https://epg.112114.xyz/bili/544843
+
 #EXTM3U
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i2.hdslb.com/bfs/face/cb620bbb9071974f37843134875d472b47532a97.jpg" group-title="哔哩哔哩",哔哩哔哩英雄联盟赛事
+https://d1--cn-gotcha208.bilivideo.com/live-bvc/706394/live_7734200_bs_7236416_bluray/index.m3u8?expires=1671628465&len=0&oi=707866770&pt=web&qn=10000&trid=1007c8d37e14558046998279a278c90298b8&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=ba56867f0ff28540d6ff86c18f06d2b8&sk=25157c94bcac14e12795a673fcd41938&p2p_type=1&src=57345&sl=10&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&trace=0&site=d17415efe88f334255f2a5b430352b16&order=1
+
+#EXTINF:-1 tvg-id="271744" tvg-logo="https://i2.hdslb.com/bfs/face/cb620bbb9071974f37843134875d472b47532a97.jpg" group-title="哔哩哔哩",某幻
+https://epg.112114.xyz/bili/271744
+
+#EXTINF:-1 tvg-id="21987615" tvg-logo="https://i2.hdslb.com/bfs/face/b79e750ecbfac35109bf6952807b404afb480aa2.jpg" group-title="哔哩哔哩",原神
+https://epg.112114.xyz/bili/21987615
+
 #EXTINF:-1 tvg-id="1" tvg-logo="null" group-title="轮播",misakaf
 http://live.misakaf.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",哔哩哔哩英雄联盟赛事
-https://cn-hnly-cu-01-12.bilivideo.com/live-bvc/689842/live_7734200_bs_7236416_bluray/index.m3u8?expires=1668861932&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=10074684b2a349944f8c8466e8d20a43df11&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=c6dbf91b0411dff5774d56b002b3a5a7&sk=25157c94bcac14e12795a673fcd41938&flvsk=92dc61c81bc913e5afc961deeaea22a3&p2p_type=0&src=57345&sl=10&free_type=0&sid=cn-hnly-cu-01-12&chash=0&sche=ban&bvchls=1&score=18&pp=rtmp&machinezone=jd&source=onetier&site=7879d6691535a909b9433f608b935b09&order=1
+#EXTINF:-1 tvg-id="739" tvg-logo="https://i1.hdslb.com/bfs/face/e9e613fd43bac62672a5e4c828a07fe155c1965a.jpg" group-title="哔哩哔哩",叫我棉被
+https://epg.112114.xyz/bili/739
 
-#EXTINF:-1 tvg-id="13" tvg-logo="null" group-title="哔哩哔哩",C酱です
-https://cn-hnly-cu-01-10.bilivideo.com/live-bvc/898753/live_46936_bs_5716239_uhd/index.m3u8?expires=1668862093&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=20000&trid=100787eed050c04e4213a93eecfbd7fd4f34&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=ac230a6d54d71df5ee4504d0e6c5544b&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=2935686d6cb9146c7a6a6a0b4e120e2557adc0b48de99725a5887e843ee476a1&p2p_type=0&src=57345&sl=10&free_type=0&sid=cn-hnly-cu-01-10&chash=0&sche=ban&bvchls=1&score=12&pp=rtmp&machinezone=ylf&source=onetier&site=51dd9602e804423e7d1037a7b86ef605&order=1
-
-#EXTINF:-1 tvg-id="22816111" tvg-logo="null" group-title="哔哩哔哩",東雪蓮Official
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/231780/live_1437582453_68155013_bluray/index.m3u8?expires=1668865674&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=100786a0f10a074a41a6a1678449f25cc64c&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=807129f80d9740387a34a59d6acda85d&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=0&src=57345&sl=4&free_type=0&pp=rtmp&machinezone=jd&source=onetier&site=26a360e0bcd6b46a36dceb4f50199b6f&order=1
-
-#EXTINF:-1 tvg-id="25206807" tvg-logo="null" group-title="哔哩哔哩",巴老师的小号
-https://epg.112114.xyz/bilibili/25206807
-
-#EXTINF:-1 tvg-id="22210372" tvg-logo="null" group-title="哔哩哔哩",香取绮罗_kira
-https://epg.112114.xyz/bilibili/22210372
-
-#EXTINF:-1 tvg-id="23303212" tvg-logo="null" group-title="哔哩哔哩",唐九夏还想再躺一下
-https://epg.112114.xyz/bilibili/23303212
-
-#EXTINF:-1 tvg-id="3822389" tvg-logo="null" group-title="哔哩哔哩",有栖Mana
-https://epg.112114.xyz/bilibili/3822389
-
-#EXTINF:-1 tvg-id="25061813" tvg-logo="null" group-title="哔哩哔哩",麻尤米mayumi
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/210104/live_1265605287_63785247_bluray/index.m3u8?expires=1668865816&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=1007dbcf0f74d435456f845f916a58b2061e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=a35ebb2e0ef924f52f3dac751e5d9ab6&sk=5a1200e4feebe5344b9ca38cc0a6e066&p2p_type=0&src=57345&sl=2&free_type=0&pp=srt&machinezone=ylf&source=onetier&site=d4565aaadb9cd480f87e20c3f876b95d&order=1
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",梅妻ume
-https://epg.112114.xyz/bilibili/24742685
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",内格夫CSGO
-https://epg.112114.xyz/bilibili/21599195
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",废物弟弟汉堡包
-https://epg.112114.xyz/bilibili/8604981
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",CSGO--德云
-https://epg.112114.xyz/bilibili/22889518
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",CSGO官方赛事
-https://epg.112114.xyz/bilibili/35
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",AYCSGO
-https://epg.112114.xyz/bilibili/25255343
-
-#EXTINF:-1 tvg-id="924328" tvg-logo="null" group-title="哔哩哔哩",dq-CSGO
-https://c1--cn-gotcha208.bilivideo.com/live-bvc/298618/live_25912175_4839296/index.m3u8?expires=1668865607&len=0&oi=707866693&pt=h5&qn=10000&trid=10077d91c327638e479bba82cd2a4aad2988&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=e151a86d0d75f7c29284cbaf24cfaa9c&sk=b0b4cd73060f500b247bbf63a32a3a03&p2p_type=0&src=57345&sl=1&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=9f1a40292f0875caa7eb63d2351b3de9&order=1
-
-#EXTINF:-1 tvg-id="246" tvg-logo="null" group-title="哔哩哔哩",杆菌无敌
-https://cn-hnly-cu-01-13.bilivideo.com/live-bvc/852770/live_164627_2722814_bluray/index.m3u8?expires=1668862251&len=0&oi=707866693&pt=h5&qn=10000&trid=1007d210b51c0eb448969755e6c9257874d0&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=27673bd7cd6531b7c55b4ddb4f6db06c&sk=657866af8fc16d8b2b84dfdde3e981438dff44b02a5b137933388fa4fca4c196&flvsk=1304f646dfeb4df8b6e7ff33c167d3ade5499fb3816ee44156bf0a67c558bc61&p2p_type=0&src=57345&sl=3&free_type=0&sid=cn-hnly-cu-01-13&chash=1&sche=ban&bvchls=1&score=12&pp=rtmp&machinezone=ylf&source=onetier&site=a1eb5106f80e9650b672d7d8c288f755&order=1
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩"
-hiiroVTuber
-https://epg.112114.xyz/bilibili/21919321
-
-#EXTINF:-1 tvg-id="21470918" tvg-logo="null" group-title="哔哩哔哩",CSGO久菜合子
-https://cn-hnly-cu-01-21.bilivideo.com/live-bvc/677455/live_437744340_40211162_bluray/index.m3u8?expires=1668862324&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=1007d23fae669183498e962d8e4ca99e6bf4&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=8ed9d14cca9fa6c917a00708abdcd2e8&sk=dc7da5ec3116549edddcf4f580cdbbd8&flvsk=bb54a0d1f51eef6cba7c72ca02291d6f&p2p_type=0&src=57345&sl=8&free_type=0&sid=cn-hnly-cu-01-21&chash=1&sche=ban&bvchls=1&score=13&pp=rtmp&machinezone=ylf&source=onetier&site=b3e40e121f500e2326091e8f60cce383&order=1
-
-#EXTINF:-1 tvg-id="88615" tvg-logo="null" group-title="哔哩哔哩",奈姬niki
-https://cn-hnly-cu-01-18.bilivideo.com/live-bvc/187567/live_3035105_3298728_bluray/index.m3u8?expires=1668865927&len=0&oi=707866693&pt=h5&qn=10000&trid=1007ddb444a654dc4bc7a5cba90a8f9caaa9&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=295caa57ae83bade82db6dd028a4f71a&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=2935686d6cb9146c7a6a6a0b4e120e2557adc0b48de99725a5887e843ee476a1&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-18&chash=1&sche=ban&bvchls=1&score=11&pp=rtmp&machinezone=jd&source=onetier&site=682642027db00f4d8c4fd2becab2c400&order=1
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",星瞳_Official
-https://epg.112114.xyz/bilibili/82568
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",弥希Miki
-https://epg.112114.xyz/bilibili/21672023
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",七海Nana7mi
-https://epg.112114.xyz/bilibili/21452505
-
-#EXTINF:-1 tvg-id="605" tvg-logo="null" group-title="哔哩哔哩",小可学妹
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/478978/live_14387072_3823515_bluray/index.m3u8?expires=1668865958&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=10073a32fc390fd642eeb8353f90d5f77ace&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=8964b3a2b7221bd65b60d25a1183081a&sk=330f650b9533b9f0f356c6d4c72b66e7&p2p_type=0&src=57345&sl=2&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=cb65136727c7ff05b9f8a077e83db743&order=1
-
-#EXTINF:-1 tvg-id="510" tvg-logo="null" group-title="哔哩哔哩",阿梓从小就很可爱
-https://cn-hnly-cu-01-05.bilivideo.com/live-bvc/436517/live_7706705_4063361_bluray/index.m3u8?expires=1668862383&len=0&oi=707866693&pt=h5&qn=10000&trid=1007a742fa0a578e43b0a61a8eb8291a24f5&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=306939b265d87e933ae5db81107f0ea3&sk=8902e9ba4f4c8ef24395013bbe65dba8&flvsk=df739001013e4655328c9a3da73fc4ac&p2p_type=0&src=57345&sl=5&free_type=0&sid=cn-hnly-cu-01-05&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=jd&source=onetier&site=400e28aaf3f0edc4b206f72598d976a5&order=1
-
-#EXTINF:-1 tvg-id="732" tvg-logo="null" group-title="哔哩哔哩",Asaki大人
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/867325/live_194484313_8775758_bluray/index.m3u8?expires=1668862404&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=1007e560392965cb48588844e0c524415f02&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=fe9302ef43f35e8f24411382724baf38&sk=330f650b9533b9f0f356c6d4c72b66e7&p2p_type=0&src=57345&sl=9&free_type=0&pp=rtmp&machinezone=jd&source=onetier&site=37e22638667707276b9e648924ef95de&order=1
-
-#EXTINF:-1 tvg-id="1017" tvg-logo="null" group-title="哔哩哔哩",逍遥散人
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/807456/live_168598_8439223_bluray/index.m3u8?expires=1668865520&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=10071ceef65edc2c48c389d4d9d7e3eea259&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=cea3eee8ed3809aac1edd0e9eacd5273&sk=dc7da5ec3116549edddcf4f580cdbbd8&p2p_type=0&src=57345&sl=3&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=efb7a886fcde5477e31c7fe082e07f03&order=1
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",南家小唯
-https://epg.112114.xyz/bilibili/1145
-
-#EXTINF:-1 tvg-id="22603245" tvg-logo="null" group-title="哔哩哔哩",永雏塔菲
-https://cn-hnly-cu-01-24.bilivideo.com/live-bvc/768518/live_1265680561_8885980_bluray/index.m3u8?expires=1668862442&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=100734c47a16b6b144cd91cff0e50857e936&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=5b2fa4ee06909ecc51b5ba2aff61de95&sk=d65212a7754b1c22799f46fc2619551e&flvsk=0d0be854fe0bd9594f885b3814af55e9&p2p_type=0&src=57345&sl=4&free_type=0&sid=cn-hnly-cu-01-24&chash=1&sche=ban&bvchls=1&score=12&pp=rtmp&machinezone=jd&source=onetier&site=2e3443db1e0cc2af11a6ce421577b14d&order=1
-
-#EXTINF:-1 tvg-id="54897" tvg-logo="null" group-title="哔哩哔哩",Ruriko琉璃子Channel
-https://cn-hnly-cu-01-18.bilivideo.com/live-bvc/391534/live_47441_9840423/index.m3u8?expires=1668865456&len=0&oi=707866693&pt=h5&qn=10000&trid=10072450ebebe89447c897dd9dccee243eea&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=5021b03c8f1b7f68084cdd5c912c5644&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=3bd9f7fa90a3159a55c303ff5bfc0c1c&p2p_type=0&src=57345&sl=2&free_type=0&sid=cn-hnly-cu-01-18&chash=1&sche=ban&bvchls=1&score=12&pp=rtmp&machinezone=jd&source=onetier&site=463a17c1cb00ef4b7298c9920d05db57&order=1
-
-#EXTINF:-1 tvg-id="1022" tvg-logo="null" group-title="哔哩哔哩",Q-kun
-https://c1--cn-gotcha208.bilivideo.com/live-bvc/320912/live_1492_2671334_bluray/index.m3u8?expires=1668865980&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=10075a301c2c9c514b649f75c6256d04db73&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=08f907599f150b44563ca68adc8bc548&sk=bac7d9006d7c2b1ad7f830d674284142&p2p_type=0&src=57345&sl=1&free_type=0&pp=rtmp&machinezone=jd&source=onetier&site=be36799851cdcc576c8b68372657c964&order=1
-
-#EXTINF:-1 tvg-id="25034104" tvg-logo="null" group-title="哔哩哔哩",明前奶绿
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/587926/live_2132180406_34242404_bluray/index.m3u8?expires=1668862467&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=10072a3478f936824dd980323f41361a90c5&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=ce0d2e112d1cbdc7e9d14ab92f446464&sk=8902e9ba4f4c8ef24395013bbe65dba8&p2p_type=0&src=57345&sl=5&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=bdfd885d1795eacbf3373a77df723076&order=1
-
-#EXTINF:-1 tvg-id="22650610" tvg-logo="null" group-title="哔哩哔哩",冥冥meichan
-https://c1--cn-gotcha208.bilivideo.com/live-bvc/960011/live_45502_60058905_bluray/index.m3u8?expires=1668865402&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=1007ce89262d95024aad8e20bb17a8eaa5ff&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=b34cfb3ef8163dceb85ca01b23cb7ef3&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=0&src=57345&sl=1&free_type=0&pp=srt&machinezone=ylf&source=onetier&site=f10bbfcfed18643fc66f26d29fc7c180&order=1
-
-#EXTINF:-1 tvg-id="92613" tvg-logo="null" group-title="哔哩哔哩",少年Pi
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/978067/live_13046_1719057_bluray/index.m3u8?expires=1668862557&len=0&oi=707866693&pt=h5&qn=10000&trid=1007e48a1d24fff34c42ac43434e47c992cb&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=f1b06fcd8e18e63971f478f17c258c6b&sk=dc7da5ec3116549edddcf4f580cdbbd8&p2p_type=0&src=57345&sl=7&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=65ebfac8095588e1c1d6c7c3cc8ac685&order=1
-
-#EXTINF:-1 tvg-id="1220" tvg-logo="null" group-title="哔哩哔哩",奶茶
-https://cn-hnly-cu-01-02.bilivideo.com/live-bvc/814064/live_777964_4405443_bluray/index.m3u8?expires=1668862583&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=10076dee82213dcb4935b52ff7badbf6722e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=82608b47a1981fd811db0766af82268a&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=2935686d6cb9146c7a6a6a0b4e120e2557adc0b48de99725a5887e843ee476a1&p2p_type=0&src=57345&sl=2&free_type=0&sid=cn-hnly-cu-01-02&chash=1&sche=ban&bvchls=1&score=9&pp=rtmp&machinezone=ylf&source=onetier&site=46a620401c0efa7c9705ce670ae556ed&order=1
-
-#EXTINF:-1 tvg-id="5050" tvg-logo="null" group-title="哔哩哔哩",EdmundDZhang
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/517228/live_433351_3463687/index.m3u8?expires=1668862601&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=1007b6420b3c9a674e3d9a1c6962ea6c22fb&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=a9518f78790664759695e49845fb8b1f&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=0&src=57345&sl=10&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=7510b15111ca0110d9c8d90e01b93e76&order=1
-
-#EXTINF:-1 tvg-id="1023" tvg-logo="null" group-title="哔哩哔哩",纯黑
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/584814/live_585267_332_c521e483_bluray/index.m3u8?expires=1668865567&len=0&oi=707866693&pt=h5&qn=10000&trid=1007a9d592cac52948e7b84f8d660e8f9695&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=79cb09df923fb8145e0507be21486906&sk=87c00a3335616773e57127d93ff0ecad&p2p_type=0&src=57345&sl=5&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=ef7ddc117108c8e94b6f75d1f7a50567&order=1
-
-#EXTINF:-1 tvg-id="115" tvg-logo="null" group-title="哔哩哔哩",神奇陆夫人
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/462985/live_419220_1665587_bluray/index.m3u8?expires=1668862626&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=1007af314c7df4b24454b9d7295aee6af331&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=abd2689a404c12e8675b43cff041f91a&sk=dc7da5ec3116549edddcf4f580cdbbd8&p2p_type=0&src=57345&sl=7&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=a5316aaa121a41dd081e3c137305d00f&order=1
-
-#EXTINF:-1 tvg-id="544786" tvg-logo="null" group-title="哔哩哔哩",12dora
-https://cn-hnly-cu-01-21.bilivideo.com/live-bvc/780751/live_70093_3659769/index.m3u8?expires=1668861505&len=0&oi=0x24088352da00bdb6d42fa2504311623f&pt=h5&qn=10000&trid=1007a80b68040a814201a133897e31309549&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=515f660f256740637bb7b153b2adb374&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=7157c68cc1d15de506d88789910d23c6&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-21&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=ylf&source=onetier&site=83135842a5753328faa5d06b07f04994&order=1
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",敖厂长
-https://epg.112114.xyz/bilibili/544586
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",咬人猫
-https://epg.112114.xyz/bilibili/218
-
-#EXTINF:-1 tvg-id="116" tvg-logo="null" group-title="哔哩哔哩",泪腺战士
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/744973/live_374377_4093634_bluray/index.m3u8?expires=1668862667&len=0&oi=707866693&pt=h5&qn=10000&trid=10071ff688f3f8954e4e87ee42852f4512a9&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=50a9c2007866e913047e588d620fd4cb&sk=5a1200e4feebe5344b9ca38cc0a6e066&p2p_type=0&src=57345&sl=9&free_type=0&pp=rtmp&machinezone=jd&source=onetier&site=4632bb318497391658b4102417aaab7a&order=1
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",早稻叽
-https://epg.112114.xyz/bilibili/631
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",爱否科技FView
-https://epg.112114.xyz/bilibili/545105
-
-#EXTINF:-1 tvg-id="544843" tvg-logo="null" group-title="哔哩哔哩",极客湾Geekerwan
-https://cn-hnly-cu-01-06.bilivideo.com/live-bvc/695934/live_25876945_5989814_bluray/index.m3u8?expires=1667058321&len=0&oi=707812986&pt=h5&qn=10000&trid=1007b24b95a3436d466ebe930e3fb6e798ce&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=97e8bb6bb7ed6e15722fc34203f37b73&sk=3abdec76439a6b088bd79e2c2d62ee45&flvsk=0def7dac2df3f587dc7375c6bc087f5c&p2p_type=0&src=57345&sl=7&free_type=0&sid=cn-hnly-cu-01-06&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=ylf&source=onetier&site=b7622a305d4dec265197013f76ba3c6a&order=1
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",钟文泽
-https://epg.112114.xyz/bilibili/924160
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",雪绘Yukie
-https://epg.112114.xyz/bilibili/21756924
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",淡希Reset
-https://epg.112114.xyz/bilibili/5542
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",神楽七奈Official
-https://epg.112114.xyz/bilibili/21304638
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",物述有栖Official
-https://epg.112114.xyz/bilibili/21449083
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",先看评测
-https://epg.112114.xyz/bilibili/23002074
-
-#EXTINF:-1 tvg-id="6655" tvg-logo="null" group-title="哔哩哔哩",ywwuyi
-https://c1--cn-gotcha208.bilivideo.com/live-bvc/579482/live_1472906636_11720107_bluray/index.m3u8?expires=1667058228&len=0&oi=707812986&pt=h5&qn=10000&trid=10071021d1b0bc27472f9d48d94bea8dccd6&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=d540d38ea5c17410519d151a4a0ca2ac&sk=bac7d9006d7c2b1ad7f830d674284142&p2p_type=0&src=57345&sl=2&free_type=0&pp=rtmp&machinezone=ylf&source=onetier&site=8748bf697b0031e8f1090e5f04ae0535&order=1
-
-#EXTINF:-1 tvg-id="6" tvg-logo="null" group-title="哔哩哔哩",内幕纠察局
-https://epg.112114.xyz/bilibili/23367901
-
-#EXTINF:-1 tvg-id="21520283" tvg-logo="null" group-title="哔哩哔哩",挑爷评美食
-https://cn-hnly-cu-01-21.bilivideo.com/live-bvc/360659/live_353317161_72653182/index.m3u8?expires=1668866303&len=0&oi=0x24088352da00bdb649c22f2396be350f&pt=h5&qn=10000&trid=1007fe1de5d973e0414e9d857073293e39be&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=c69fe0686b16c8ccb058c45d00df5dec&sk=c9c6154426932efa80d25af02e87a3bd&flvsk=a550c145a353285f0062786f15a64b52&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-hnly-cu-01-21&chash=1&sche=ban&bvchls=1&score=14&pp=rtmp&machinezone=jd&source=onetier&site=e870ac27c7891e7f1dc295e0b3e7ac30&order=1
+#EXTINF:-1 tvg-id="10448205" tvg-logo="ttps://i0.hdslb.com/bfs/face/2433a34095091a3d83bdc74fcaa72c35a546802c.jpg" group-title="哔哩哔哩",鱼子酱不能睡懒觉
+https://epg.112114.xyz/bili/10448205
 
 
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i1.hdslb.com/bfs/face/361274190d08a36ed12c58b55dd4063cde3391eb.jpg" group-title="哔哩哔哩",C酱です
+https://epg.112114.xyz/bili/13
 
+#EXTINF:-1 tvg-id="22816111" tvg-logo="https://i0.hdslb.com/bfs/face/7399f43b6bdc9bd0adcbb834834a0cfac6a7cece.jpg" group-title="哔哩哔哩",東雪蓮Official
+https://epg.112114.xyz/bili/22816111
+
+#EXTINF:-1 tvg-id="25206807" tvg-logo="https://i2.hdslb.com/bfs/face/ce792dd8ee5dcec2ee7c3c9072f9bff0bd49ec4d.jpg" group-title="哔哩哔哩",巴老师的小号
+https://epg.112114.xyz/bili/25206807
+
+#EXTINF:-1 tvg-id="22210372" tvg-logo="https://i0.hdslb.com/bfs/face/b681447d8408c7fdf6e6a642abb70f7fe4741b4e.jpg" group-title="哔哩哔哩",香取绮罗_kira
+https://epg.112114.xyz/bili/22210372
+
+#EXTINF:-1 tvg-id="23303212" tvg-logo="https://i1.hdslb.com/bfs/face/b6b4da4330d7fecf2b641bbf884779484555ee3d.jpg" group-title="哔哩哔哩",唐九夏还想再躺一下
+https://epg.112114.xyz/bili/23303212
+
+#EXTINF:-1 tvg-id="3822389" tvg-logo="https://i0.hdslb.com/bfs/face/7c945458615d8e2d2944d5aac1a998c9d9f5550f.jpg" group-title="哔哩哔哩",有栖Mana
+https://epg.112114.xyz/bili/3822389
+
+#EXTINF:-1 tvg-id="25061813" tvg-logo="https://i0.hdslb.com/bfs/face/4b3c46b2fa7067e738d1cba7e0527150f824a856.jpg" group-title="哔哩哔哩",麻尤米mayumi
+https://epg.112114.xyz/bili/25061813
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i0.hdslb.com/bfs/face/fd1db7795554d08250fe38e640f0484dd1737ece.jpg" group-title="哔哩哔哩",梅妻ume
+https://epg.112114.xyz/bili/24742685
+
+#EXTINF:-1 tvg-id="21599195" tvg-logo="https://i1.hdslb.com/bfs/face/59b59bf0ca12383dcbc21aef5714faec83ed8e10.jpg" group-title="哔哩哔哩",内格夫CSGO
+https://epg.112114.xyz/bili/21599195
+
+#EXTINF:-1 tvg-id="8604981" tvg-logo="https://i1.hdslb.com/bfs/face/ca897a8e28787e40414f6f00ae5ae5454dcbb177.jpg group-title="哔哩哔哩",废物弟弟汉堡包
+https://epg.112114.xyz/bili/8604981
+
+#EXTINF:-1 tvg-id="22889518" tvg-logo="https://i2.hdslb.com/bfs/face/e2932c394eedfbc9494b7c104850dcaed2d13c30.jpg" group-title="哔哩哔哩",CSGO--德云
+https://epg.112114.xyz/bili/22889518
+
+#EXTINF:-1 tvg-id="35" tvg-logo="https://i1.hdslb.com/bfs/face/0c89136f648dbf1f1145a7af13eb06ae984de0c4.jpg" group-title="哔哩哔哩",CSGO官方赛事
+https://epg.112114.xyz/bili/35
+
+#EXTINF:-1 tvg-id="34" tvg-logo="https://i1.hdslb.com/bfs/face/0c89136f648dbf1f1145a7af13eb06ae984de0c4.jpg" group-title="哔哩哔哩",CSGO官方赛事
+https://epg.112114.xyz/bili/34
+
+#EXTINF:-1 tvg-id="25255343" tvg-logo="https://i1.hdslb.com/bfs/face/00981afbe0562c34f53b8279670a3e0ebd1f21c8.jpg" group-title="哔哩哔哩",AYCSGO
+https://epg.112114.xyz/bili/25255343
+
+#EXTINF:-1 tvg-id="924328" tvg-logo="https://i2.hdslb.com/bfs/face/0fe463b0a8c163980018358e5f0b9df7e867f78f.jpg" group-title="哔哩哔哩",dq-CSGO
+https://epg.112114.xyz/bili/924328
+
+#EXTINF:-1 tvg-id="246" tvg-logo="http://i2.hdslb.com/bfs/face/6bbeb93dd72c60cb7ad2e876b241d0360d7f0d38.gif" group-title="哔哩哔哩",杆菌无敌
+https://epg.112114.xyz/bili/246
+
+#EXTINF:-1 tvg-id="21919321" tvg-logo="https://i1.hdslb.com/bfs/face/0c06dc4a5ff6b6dffcd6b6df032df92bff63a87a.jpg" group-title="哔哩哔哩",hiiroVTuber
+https://epg.112114.xyz/bili/21919321
+
+#EXTINF:-1 tvg-id="21470918" tvg-logo="https://i0.hdslb.com/bfs/face/4b9f09dfb8185c1776451c83092337b6f7fd91a5.jpg" group-title="哔哩哔哩",CSGO久菜合子
+https://epg.112114.xyz/bili/21470918
+
+#EXTINF:-1 tvg-id="88615" tvg-logo="https://i2.hdslb.com/bfs/face/cd6e94442148853fd8841a7a78685ca1c85e503c.jpg" group-title="哔哩哔哩",奈姬niki
+https://epg.112114.xyz/bili/88615
+
+#EXTINF:-1 tvg-id="82568" tvg-logo="https://i0.hdslb.com/bfs/face/6be92dec2240b0593a40d2c696b37aa75c704ff6.jpg" group-title="哔哩哔哩",星瞳_Official
+https://epg.112114.xyz/bili/82568
+
+#EXTINF:-1 tvg-id="21672023" tvg-logo="https://i0.hdslb.com/bfs/face/721e967950fe7d934d2c06aeade6b0f78ec91b9d.jpg" group-title="哔哩哔哩",弥希Miki
+https://epg.112114.xyz/bili/21672023
+
+#EXTINF:-1 tvg-id="21452505" tvg-logo="https://i2.hdslb.com/bfs/face/ca1831b43b6aa2401c2f9be1175833dc683f430b.jpg" group-title="哔哩哔哩",七海Nana7mi
+https://epg.112114.xyz/bili/21452505
+
+#EXTINF:-1 tvg-id="605" tvg-logo="https://i2.hdslb.com/bfs/face/50bec7d47935d0660c7174e7c075d38f259e8d15.jpg" group-title="哔哩哔哩",小可学妹
+https://epg.112114.xyz/bili/605
+
+#EXTINF:-1 tvg-id="510" tvg-logo="https://i2.hdslb.com/bfs/face/ba9ce36ef60a53e24a97f54429e62bdb951530a0.jpg" group-title="哔哩哔哩",阿梓从小就很可爱
+https://epg.112114.xyz/bili/510
+
+#EXTINF:-1 tvg-id="732" tvg-logo="https://i1.hdslb.com/bfs/face/6741c2cd6a9983a1d4dfa3ff690a8b9d5ae127b5.jpg" group-title="哔哩哔哩",Asaki大人
+https://epg.112114.xyz/bili/732
+
+#EXTINF:-1 tvg-id="1017" tvg-logo="https://i1.hdslb.com/bfs/face/8a5de2d7486251e80307d8600cbf8649eb4035fe.jpg" group-title="哔哩哔哩",逍遥散人
+https://epg.112114.xyz/bili/1017
+
+#EXTINF:-1 tvg-id="1145" tvg-logo="https://i0.hdslb.com/bfs/face/883a5c4c2fbabe759f55601658d8972d870c3192.jpg" group-title="哔哩哔哩",南家小唯
+https://epg.112114.xyz/bili/1145
+
+#EXTINF:-1 tvg-id="22603245" tvg-logo="https://i1.hdslb.com/bfs/face/4907464999fbf2f2a6f9cc8b7352fceb6b3bfec3.jpg" group-title="哔哩哔哩",永雏塔菲
+https://epg.112114.xyz/bili/22603245
+
+#EXTINF:-1 tvg-id="54897" tvg-logo="https://i2.hdslb.com/bfs/face/c02f358206130cab94262cdbf79977a39290a54c.jpg" group-title="哔哩哔哩",Ruriko琉璃子Channel
+https://epg.112114.xyz/bili/54897
+
+#EXTINF:-1 tvg-id="1022" tvg-logo="https://i1.hdslb.com/bfs/face/8b9c5e6f1b168179a745ca3661f17eb2e87d2222.jpg" group-title="哔哩哔哩",Q-kun
+https://epg.112114.xyz/bili/1022
+
+#EXTINF:-1 tvg-id="25034104" tvg-logo="https://i0.hdslb.com/bfs/face/4bee9c761c20a4563700317f34e432e2dfc20765.jpg" group-title="哔哩哔哩",明前奶绿
+https://epg.112114.xyz/bili/25034104
+
+#EXTINF:-1 tvg-id="22650610" tvg-logo="https://i1.hdslb.com/bfs/face/3b3de6778f55edef2d92fca69c63b5cb49d0c1b1.jpg" group-title="哔哩哔哩",冥冥meichan
+https://epg.112114.xyz/bili/22650610
+
+#EXTINF:-1 tvg-id="22301377" tvg-logo="https://i2.hdslb.com/bfs/face/6a23a943ba34b1e6cf436ac4ac77d2275e328d23.jpg" group-title="哔哩哔哩",奈奈莉娅Channel
+https://epg.112114.xyz/bili/22301377
+
+#EXTINF:-1 tvg-id="92613" tvg-logo="https://i2.hdslb.com/bfs/face/6e3b84c1fe71caf523ed87d264f9026013af1c2c.jpg" group-title="哔哩哔哩",少年Pi
+https://epg.112114.xyz/bili/92613
+
+#EXTINF:-1 tvg-id="1220" tvg-logo="https://i1.hdslb.com/bfs/face/5021dbde39a8258da5df3a6b401b4d5488e8d5b7.jpg" group-title="哔哩哔哩",奶茶
+https://epg.112114.xyz/bili/1220
+
+#EXTINF:-1 tvg-id="5050" tvg-logo="https://i1.hdslb.com/bfs/face/50900541a74f7875867c38a1e8e572b44b388060.jpg" group-title="哔哩哔哩",EdmundDZhang
+https://epg.112114.xyz/bili/5050
+
+#EXTINF:-1 tvg-id="1023" tvg-logo="https://i0.hdslb.com/bfs/face/e8ab7b02d6576f4141ea857734b68b9dd35a5730.jpg" group-title="哔哩哔哩",纯黑
+https://epg.112114.xyz/bili/1023
+
+#EXTINF:-1 tvg-id="139" tvg-logo="https://i0.hdslb.com/bfs/face/31706c82949b3ba4756a411825c3f16aeb14ad44.jpg" group-title="哔哩哔哩",黑桐谷歌
+https://epg.112114.xyz/bili/139
+
+#EXTINF:-1 tvg-id="942101" tvg-logo="https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg" group-title="哔哩哔哩",凉风Kaze
+https://epg.112114.xyz/bili/942101
+
+#EXTINF:-1 tvg-id="115" tvg-logo="https://i0.hdslb.com/bfs/face/ad2f08dd806b0da46039bb2fd737eb5855924c80.jpg" group-title="哔哩哔哩",神奇陆夫人
+https://epg.112114.xyz/bili/115
+
+#EXTINF:-1 tvg-id="544786" tvg-logo="https://i1.hdslb.com/bfs/face/d0654b294fe1006b855663affc5fe65ef4c347ce.jpg" group-title="哔哩哔哩",12dora
+https://epg.112114.xyz/bili/544786
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i2.hdslb.com/bfs/face/3368af39da3285bdb46ee719b896602028433932.jpg" group-title="哔哩哔哩",敖厂长
+https://epg.112114.xyz/bili/544586
+
+#EXTINF:-1 tvg-id="218" tvg-logo="http://i1.hdslb.com/bfs/face/8fad84a4470f3d894d8f0dc95555ab8f2cb10a83.jpg" group-title="哔哩哔哩",咬人猫
+https://epg.112114.xyz/bili/218
+
+#EXTINF:-1 tvg-id="116" tvg-logo="https://i1.hdslb.com/bfs/face/0ea70ba18f11aa81b9540ec48db8fec798eab3dc.jpg" group-title="哔哩哔哩",泪腺战士
+https://epg.112114.xyz/bili/116
+
+#EXTINF:-1 tvg-id="631" tvg-logo="https://i1.hdslb.com/bfs/face/b7d3a230a5c8bba70606e4d133f71f99aae1ab23.jpg" group-title="哔哩哔哩",早稻叽
+https://epg.112114.xyz/bili/631
+
+#EXTINF:-1 tvg-id="6" tvg-logo="http://i0.hdslb.com/bfs/face/b7efecd12b932a0e9bd4d7d3a7ba769166479fff.jpg" group-title="哔哩哔哩",爱否科技FView
+https://epg.112114.xyz/bili/545105
+
+#EXTINF:-1 tvg-id="544843" tvg-logo="http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg" group-title="哔哩哔哩",极客湾Geekerwan
+https://epg.112114.xyz/bili/544843
+
+#EXTINF:-1 tvg-id="21756924" tvg-logo="https://i1.hdslb.com/bfs/face/a516d9125d014bd97b8a6f480af818e162c27b29.jpg" group-title="哔哩哔哩",雪绘Yukie
+https://epg.112114.xyz/bili/21756924
+
+#EXTINF:-1 tvg-id="5542" tvg-logo="ttps://i1.hdslb.com/bfs/face/0bd4e577bb2885eb0f1e7e5d52836b8f9de68c81.jpg" group-title="哔哩哔哩",淡希Reset
+https://epg.112114.xyz/bili/5542
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i2.hdslb.com/bfs/face/70afd239f7f7a0c33b03dbfc5aa74775360176da.jpg" group-title="哔哩哔哩",神楽七奈Official
+https://epg.112114.xyz/bili/21304638
+
+#EXTINF:-1 tvg-id="21449083" tvg-logo="http://i2.hdslb.com/bfs/face/b47463d917ec2dc7ef34951d51df490fa7f89531.jpg" group-title="哔哩哔哩",物述有栖Official
+https://epg.112114.xyz/bili/21449083
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i2.hdslb.com/bfs/face/70e3612931063c432eab5818d756df08097ad334.jpg" group-title="哔哩哔哩",先看评测
+https://epg.112114.xyz/bili/23002074
+
+#EXTINF:-1 tvg-id="6655" tvg-logo="ttps://i2.hdslb.com/bfs/face/4bc94ba126a334aa325015848c0c12c4ea307459.jpg" group-title="哔哩哔哩",ywwuyi
+https://epg.112114.xyz/bili/6655
+
+#EXTINF:-1 tvg-id="3893205" tvg-logo="https://i1.hdslb.com/bfs/face/3afaa68358d4d0a96655717b5028807bf751a58a.jpg" group-title="哔哩哔哩",圣者凭依之躯
+https://epg.112114.xyz/bili/3893205
+
+#EXTINF:-1 tvg-id="23105590" tvg-logo="https://i2.hdslb.com/bfs/face/63dd0ea1d17ba139a955054ad6553e977813893d.jpg" group-title="哔哩哔哩",恋乃夜舞_propro
+https://epg.112114.xyz/bili/23105590
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i1.hdslb.com/bfs/face/e4de8050e371b288a173ae2732eec729e7bcb4a9.jpg" group-title="哔哩哔哩",内幕纠察局
+https://epg.112114.xyz/bili/23367901
+
+#EXTINF:-1 tvg-id="21520283" tvg-logo="http://i0.hdslb.com/bfs/face/ada17ffd1790f97b71bacdee199ff073a71c897f.jpg" group-title="哔哩哔哩",挑爷评美食
+https://epg.112114.xyz/bili/21520283
+
+#EXTINF:-1 tvg-id="733" tvg-logo="https://i0.hdslb.com/bfs/face/dada6e2a76dad1aca162e4bd942413edfe91d284.jpg" group-title="哔哩哔哩",北极熊剩饭
+https://epg.112114.xyz/bili/733
+
+#EXTINF:-1 tvg-id="1361615" tvg-logo="http://i1.hdslb.com/bfs/face/ec008e32064705c576f3ffd73d20288e441d945f.jpg" group-title="哔哩哔哩",远古时代装机猿
+https://epg.112114.xyz/bili/1361615
+
+#EXTINF:-1 tvg-id="20984" tvg-logo="https://i2.hdslb.com/bfs/face/729ed1ee1708b6d2ec011886ae8750a2a5489806.jpg" group-title="哔哩哔哩",CZCJiaxu
+https://epg.112114.xyz/bili/20984
+
+#EXTINF:-1 tvg-id="232814" tvg-logo="https://i1.hdslb.com/bfs/face/7d350abb596c0b6f6d4666b04077847f50eff36c.jpg" group-title="哔哩哔哩",ARHKIV
+https://epg.112114.xyz/bili/232814
+
+#EXTINF:-1 tvg-id="5229" tvg-logo="https://i1.hdslb.com/bfs/face/83dc62a3c49aee0e1690ad95f675492c91244391.jpg" group-title="哔哩哔哩",MKiiiiii
+https://epg.112114.xyz/bili/5229
+
+#EXTINF:-1 tvg-id="23668205" tvg-logo="https://i0.hdslb.com/bfs/face/66c74d6372d24369a01591110c821474bb2cff27.jpg" group-title="哔哩哔哩",Clown战神
+https://epg.112114.xyz/bili/23668205
+
+#EXTINF:-1 tvg-id="956152" tvg-logo="https://i1.hdslb.com/bfs/face/ffe6500d16f72162b0287f1e63f5c9211642133d.jpg" group-title="哔哩哔哩",獭耳
+https://epg.112114.xyz/bili/956152
+
+#EXTINF:-1 tvg-id="931522" tvg-logo="http://i2.hdslb.com/bfs/face/60b9b1cb892d66a744af0c892938d9a3c3c27537.jpg" group-title="哔哩哔哩",机智的肯尼
+https://epg.112114.xyz/bili/931522
+
+#EXTINF:-1 tvg-id="1944820" tvg-logo="https://i2.hdslb.com/bfs/face/83f26dbc905a9ef2296b4e2a878b7b9afe1f82c3.jpg" group-title="哔哩哔哩",切茜娅CheIsea
+https://epg.112114.xyz/bili/1944820
+
+#EXTINF:-1 tvg-id="21013446" tvg-logo="https://i0.hdslb.com/bfs/face/000c5cdad665d9dc54cf5ea2498aa859c59e77fa.jpg" group-title="哔哩哔哩",雫るる_Official
+https://epg.112114.xyz/bili/21013446
+
+#EXTINF:-1 tvg-id="21692711" tvg-logo="https://i0.hdslb.com/bfs/face/602b90b452b0d1a6ec32fb0e4d509ed245dea800.jpg" group-title="哔哩哔哩",东爱璃Lovely
+https://epg.112114.xyz/bili/21692711
+
+#EXTINF:-1 tvg-id="21652717" tvg-logo="https://i2.hdslb.com/bfs/face/37212a3393d363e646c3491f210d0972746fa367.jpg" group-title="哔哩哔哩",白神遥Haruka
+https://epg.112114.xyz/bili/21652717
+
+#EXTINF:-1 tvg-id="21396545" tvg-logo="https://i1.hdslb.com/bfs/face/5cb0841c3c2e4ddc88a58a7a232e68460fcd5c79.jpg" group-title="哔哩哔哩",绯赤艾莉欧_NHO
+https://epg.112114.xyz/bili/21396545
+
+#EXTINF:-1 tvg-id="3264" tvg-logo="https://i0.hdslb.com/bfs/face/cd03dfde291da9dbb43456798a2464c6f45fa2cb.jpg" group-title="哔哩哔哩",蕾尔娜Leona
+https://epg.112114.xyz/bili/3264
+
+#EXTINF:-1 tvg-id="4138602" tvg-logo="https://i0.hdslb.com/bfs/face/1369090e210f5033031559fe9ea9c5971a19acb6.jpg" group-title="哔哩哔哩",小希小桃Channel
+https://epg.112114.xyz/bili/4138602
+
+#EXTINF:-1 tvg-id="23698286" tvg-logo="https://i2.hdslb.com/bfs/face/d11fed45cc0c59983f46fb3a72478adaebd26c7a.jpg" group-title="哔哩哔哩",美月もも
+https://epg.112114.xyz/bili/23698286
+
+#EXTINF:-1 tvg-id="23256987" tvg-logo="https://i1.hdslb.com/bfs/face/a83b296101bb36a6f1dacb8fdfa74a57a2c29445.jpg" group-title="哔哩哔哩",陆鳐LuLu
+https://epg.112114.xyz/bili/23256987
+
+#EXTINF:-1 tvg-id="22384516" tvg-logo="https://i0.hdslb.com/bfs/face/c234aef24feb06c960e190fa7ebf792adbbb163d.jpg" group-title="哔哩哔哩",呜米
+https://epg.112114.xyz/bili/22384516
+
+#EXTINF:-1 tvg-id="8792912" tvg-logo="https://i2.hdslb.com/bfs/face/1b74803484cfc056d0aa50b1a52440af7804f225.jpg" group-title="哔哩哔哩",咩栗
+https://epg.112114.xyz/bili/8792912
+
+#EXTINF:-1 tvg-id="12845193" tvg-logo="https://i2.hdslb.com/bfs/face/79c2df70fcc64cab3dbf80755f9ae10e75b042f4.jpg" group-title="哔哩哔哩",鸢尾牙牙
+https://epg.112114.xyz/bili/12845193
+
+#EXTINF:-1 tvg-id="8725120" tvg-logo="http://i2.hdslb.com/bfs/face/a7edad60dab7f5bf46b4ce6460e9ff988acbc68e.jpg" group-title="哔哩哔哩",古守血遊official
+https://epg.112114.xyz/bili/8725120
+
+#EXTINF:-1 tvg-id="22696954" tvg-logo="https://i1.hdslb.com/bfs/face/1a247649adc3a33f4322b6fbf59ccffa6860f275.jpg" group-title="哔哩哔哩",小柔Channel
+https://epg.112114.xyz/bili/22696954
+
+#EXTINF:-1 tvg-id="23084015" tvg-logo="https://i0.hdslb.com/bfs/face/39247fc326dde38e3f006f27a08be418c1f87549.jpg" group-title="哔哩哔哩",沙口酱official
+https://epg.112114.xyz/bili/23084015
+
+#EXTINF:-1 tvg-id="1006" tvg-logo="https://i1.hdslb.com/bfs/face/c527354f6636d3c5ea9068206dd207cdad30310f.jpg" group-title="哔哩哔哩",鱼炒饭
+https://epg.112114.xyz/bili/1006
+
+#EXTINF:-1 tvg-id="33989" tvg-logo="https://i0.hdslb.com/bfs/face/5f60d345059b82f0878984d9f9133f45b33b82be.jpg" group-title="哔哩哔哩",泛式
+https://epg.112114.xyz/bili/33989
 
 #EXTINF:-1 tvg-id="314957" tvg-logo="null" group-title="虎牙",莱昂凯
 https://epg.112114.xyz/huya/314957
@@ -171,24 +274,35 @@ https://epg.112114.xyz/huya/314957
 #EXTINF:-1 tvg-id="123321" tvg-logo="null" group-title="虎牙",csboy
 https://epg.112114.xyz/huya/123321
 
-#EXTINF:-1 tvg-id="617398" tvg-logo="null" group-title="虎牙",CSGO大菠萝
+#EXTINF:-1 tvg-id="617398" tvg-logo="https://huyaimg.msstatic.com/avatar/1056/5c/7ea6c037959f74b764bdfedc461e7f_180_135.jpg?1659486127" group-title="虎牙",CSGO大菠萝
 https://epg.112114.xyz/huya/617398
 
 #EXTINF:-1 tvg-id="6145134" tvg-logo="null" group-title="虎牙",晴小兔呢
 https://epg.112114.xyz/huya/6145134
 
-#EXTINF:-1 tvg-id="6979222" tvg-logo="null" group-title="斗鱼",玩机器
+#EXTINF:-1 tvg-id="6979222" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_middle.jpg" group-title="斗鱼",玩机器
 https://epg.112114.xyz/douyu/6979222
 
-#EXTINF:-1 tvg-id="9373808" tvg-logo="null" group-title="斗鱼",NancySzzz
+#EXTINF:-1 tvg-id="9373808" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/cca803d6fb664fdb9ee544be8a3ac78d_middle.jpg" group-title="斗鱼",NancySzzz
 https://epg.112114.xyz/douyu/9373808
 
-#EXTINF:-1 tvg-id="111111" tvg-logo="null" group-title="斗鱼",叶知秋
+#EXTINF:-1 tvg-id="111111" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/48e1cacc6daa45978be1f462322a2436_middle.jpg" group-title="斗鱼",叶知秋
 https://epg.112114.xyz/douyu/111111
 
+#EXTINF:-1 tvg-id="111111" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/48e1cacc6daa45978be1f462322a2436_middle.jpg" group-title="斗鱼",miku-Csgo
+https://epg.112114.xyz/douyu/10125467
+
 #EXTINF:-1 tvg-id="361433" tvg-logo="null" group-title="网易cc",Mrquin
-http://alipullhls.cc.netease.com/pushstation/e2cde9a16b5147da1854266756597.m3u8?src=web&auth_key=1665755745-54ea9104aefc4fec9c7e0e741ff9862a-0-cf532a429742768628423c88623dfb5b
+https://alipullhls.cc.netease.com/pushstation/e2cde9a16b5147da1854266756597.m3u8?auth_key=1668955114-ead33d4c68fc4c8aa3e0beb2954676da-0-5e90eda122dadcb6794b1dcb4595693c
 
+#EXTINF:-1 tvg-id="314351572" tvg-logo="null" group-title="网易cc",Crown小小小九
+https://alipullhls.cc.netease.com/pushstation/26a201b68be43f1953c6238856217.m3u8?auth_key=1669201293-b89c77488f2d48978a4a1761c67cf3f4-0-65aa48d5e881e1fc7336eff26957c382
 
+#EXTINF:-1 tvg-id="445566" tvg-logo="null" group-title="网易cc",香香永劫无间
+https://alipullhls.cc.netease.com/pushstation/3d45fc164e85cfd789d4309573382.m3u8?auth_key=1669201412-710aea5a2a6e4d3799cdf127a1d0d3e6-0-2f060137f56ec2acb2718748ad38a5ba
 
+#EXTINF:-1 tvg-id="54690489" tvg-logo="null" group-title="ACfun",犬川面面Miami
+https://ali-acfun-adaptive.pull.etoote.com/livecloud/kszt_CrAfjKBiCSs_hd2000.flv?auth_key=1671706648-0-0-cb1d3d95cdb8998f6fa9e87c9d8a55cb&oidc=alihb&tsc=origin
 
+#EXTINF:-1 tvg-id="378269" tvg-logo="null" group-title="ACfun",qyqx
+https://ali-acfun-adaptive.pull.etoote.com/livecloud/kszt_QoXVNXgBM6c.flv?auth_key=1671706708-0-0-ca31ff67c429b0513e81aeb4f18cc8a3&oidc=alihb
