@@ -25,8 +25,18 @@ https://epg.112114.xyz/bili/10448205
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i1.hdslb.com/bfs/face/361274190d08a36ed12c58b55dd4063cde3391eb.jpg" group-title="哔哩哔哩",C酱です
 https://epg.112114.xyz/bili/13
 
-#EXTINF:-1 tvg-id="22816111" tvg-logo="https://i0.hdslb.com/bfs/face/7399f43b6bdc9bd0adcbb834834a0cfac6a7cece.jpg" group-title="哔哩哔哩",東雪蓮Official
-https://epg.112114.xyz/bili/22816111
+#四禧丸子
+#EXTINF:-1 tvg-id="23770996" tvg-logo="https://i1.hdslb.com/bfs/face/607a5703c92168d18acba0d5a0b18bcec3d73f16.jpg" group-title="哔哩哔哩",梨安不迷路
+https://epg.112114.xyz/bili/23770996
+
+#EXTINF:-1 tvg-id="23771139" tvg-logo="https://i2.hdslb.com/bfs/face/603ef874218e25155625aeac8c7b31c5211d24b0.jpg" group-title="哔哩哔哩",沐霂是MUMU呀
+https://epg.112114.xyz/bili/23771139
+
+#EXTINF:-1 tvg-id="23771189" tvg-logo="https://i2.hdslb.com/bfs/face/3f9ad1805c09c66bc5185cba3fb025293744839d.jpg" group-title="哔哩哔哩",恬豆发芽了
+https://epg.112114.xyz/bili/23771189
+
+#EXTINF:-1 tvg-id="23771092" tvg-logo="https://i0.hdslb.com/bfs/face/60648bcf6ab60ff0957cbd7c83b2f4066d6189e7.jpg" group-title="哔哩哔哩",又一充电中
+https://epg.112114.xyz/bili/23771092
 
 #EXTINF:-1 tvg-id="25206807" tvg-logo="https://i2.hdslb.com/bfs/face/ce792dd8ee5dcec2ee7c3c9072f9bff0bd49ec4d.jpg" group-title="哔哩哔哩",巴老师的小号
 https://epg.112114.xyz/bili/25206807
@@ -78,6 +88,9 @@ https://epg.112114.xyz/bili/21470918
 
 #EXTINF:-1 tvg-id="88615" tvg-logo="https://i2.hdslb.com/bfs/face/cd6e94442148853fd8841a7a78685ca1c85e503c.jpg" group-title="哔哩哔哩",奈姬niki
 https://epg.112114.xyz/bili/88615
+
+#EXTINF:-1 tvg-id="22816111" tvg-logo="https://i0.hdslb.com/bfs/face/7399f43b6bdc9bd0adcbb834834a0cfac6a7cece.jpg" group-title="哔哩哔哩",東雪蓮Official
+https://epg.112114.xyz/bili/22816111
 
 #EXTINF:-1 tvg-id="82568" tvg-logo="https://i0.hdslb.com/bfs/face/6be92dec2240b0593a40d2c696b37aa75c704ff6.jpg" group-title="哔哩哔哩",星瞳_Official
 https://epg.112114.xyz/bili/82568
@@ -293,13 +306,13 @@ https://epg.112114.xyz/douyu/111111
 https://epg.112114.xyz/douyu/10125467
 
 #EXTINF:-1 tvg-id="361433" tvg-logo="null" group-title="网易cc",Mrquin
-https://alipullhls.cc.netease.com/pushstation/e2cde9a16b5147da1854266756597.m3u8?auth_key=1668955114-ead33d4c68fc4c8aa3e0beb2954676da-0-5e90eda122dadcb6794b1dcb4595693c
+https://alipullhls.cc.netease.com/pushstation/e2cde9a16b5147da1854266756597.m3u8?auth_key=1678193014-2b595ef48f00436b8e958a450d2d0d12-0-db07c633c9b1e6aa1a9bbcbbe530a0a6
 
 #EXTINF:-1 tvg-id="314351572" tvg-logo="null" group-title="网易cc",Crown小小小九
 https://alipullhls.cc.netease.com/pushstation/26a201b68be43f1953c6238856217.m3u8?auth_key=1669201293-b89c77488f2d48978a4a1761c67cf3f4-0-65aa48d5e881e1fc7336eff26957c382
 
 #EXTINF:-1 tvg-id="445566" tvg-logo="null" group-title="网易cc",香香永劫无间
-https://alipullhls.cc.netease.com/pushstation/3d45fc164e85cfd789d4309573382.m3u8?auth_key=1669201412-710aea5a2a6e4d3799cdf127a1d0d3e6-0-2f060137f56ec2acb2718748ad38a5ba
+https://kspullhls.cc.netease.com/pushstation/48c97c50839c315acbc2371058336/index.m3u8?k=8dd3a6c5e66c7cfc8d5e310b9c2368b4&t=1678106376
 
 #EXTINF:-1 tvg-id="54690489" tvg-logo="null" group-title="ACfun",犬川面面Miami
 https://ali-acfun-adaptive.pull.etoote.com/livecloud/kszt_CrAfjKBiCSs_hd2000.flv?auth_key=1671706648-0-0-cb1d3d95cdb8998f6fa9e87c9d8a55cb&oidc=alihb&tsc=origin
